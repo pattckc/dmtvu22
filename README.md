@@ -1,2 +1,2 @@
-# Data-Mining-Techniques-VU-2022
+# dmtvu22
  
