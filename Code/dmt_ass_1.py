@@ -104,16 +104,21 @@ df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"Artificial Intelligence Cogni
    }, value="Artificial Intelligence")
 df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={ "MSc in Artificial Intelligence", "Artificial Intelligence at UvA",
 "Master Artificial Intelligence", "Masters Artificial Intelligence", "MSc in Artificial Intelligence", "Master Artificial intelligence", "Master Artificial Intelligence at UvA"
-, "MSc AI", "Msc AI", "MSc. AI at UvA", "", "", ""}, value="Artificial Intelligence")
+, "MSc AI", "Msc AI", "MSc. AI at UvA", "MSc. AI at UvA ", "", ""}, value="Artificial Intelligence")
 df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"MSc. Artificial Intelligence ", "VU Master of Artificial Intelligence", 
 "Artificial Intelligence ", "Masters in Artificial Intelligence", "MSc Artificial Intelligence", "Artificial intelligence",
- "Ai", "Masters AI ", "MSc AI at UVA", "AI for health"}, value="Artificial Intelligence")
+ "Ai", "Masters AI ", "MSc AI at UVA", "AI for health", "AI Cognitive Science Track"}, value="Artificial Intelligence")
 
-# REPLACE ALL CS
-df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"CS", "Computer Science ", "computer science", "Computer science", "cs" }, value = "Computer Science")
+# REPLACE ALL Computer Science
+df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"CS", "Computer Science ", "computer science", "Computer science", "cs", "MSc Computer Science"
+, "MSc Computer science", "Master of Computer science", "Computer science - BDE" , "", "", "", "", "", "", ""}, value = "Computer Science")
 
-# REPLACE ALL BA 
-df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"BA"}, value = "Business Analytics")
+# REPLACE ALL Business Analytics
+df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"BA", "business analytics", "Business Analytics Master (Computational Intelligence track)", "Business analytics", ""}, value = "Business Analytics")
+
+# REPLACE ALL Computational Science
+df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"computational science", "Computational science", "Computational Science ", 
+"Computational Science(CLS)", "MSc Computational Science", "CLS","MSc Computational Science"}, value = "Computational Science")
 
 # REPLACE REST
 #df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={not ("Artificial Intelligence", "Computer Science", "Business Analytics", "Computational Science")}, value = "Other")
@@ -123,7 +128,6 @@ df.iloc[:, 1] = np.where(df.iloc[:, 1].isin(["Artificial Intelligence", "Compute
 ds = df.describe(include='all')
 print(ds)
 df.to_csv('Code\Data\preprocessed-ODI-2022.csv')
-print(df)
 
 # the amount of a certain value in a column
 var0 = df.iloc[:, 0].value_counts(); var1 = df.iloc[:, 1].value_counts(); var2 = df.iloc[:, 2].value_counts(); var3 = df.iloc[:, 3].value_counts(); 
@@ -131,3 +135,4 @@ var4 = df.iloc[:, 4].value_counts(); var5 = df.iloc[:, 5].value_counts(); var6 =
 var8 = df.iloc[:, 8].value_counts(); var9 = df.iloc[:, 9].value_counts(); var10 = df.iloc[:, 10].value_counts(); var11 = df.iloc[:, 11].value_counts()
 var12 = df.iloc[:, 12].value_counts(); var13 = df.iloc[:, 13].value_counts(); var14 = df.iloc[:, 14].value_counts(); var15 = df.iloc[:, 15].value_counts(); 
 var16 = df.iloc[:, 16].value_counts()
+print(df)
