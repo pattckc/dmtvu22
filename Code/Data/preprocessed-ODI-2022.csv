@@ -1,259 +1,259 @@
 ,Tijdstempel,What programme are you in?,Have you taken a course on machine learning?,Have you taken a course on information retrieval?,Have you taken a course on statistics?,Have you taken a course on databases?,What is your gender?,Chocolate makes you.....,When is your birthday (date)?,Number of neighbors sitting around you?,Did you stand up?,What is your stress level (0-100)?,"You can get 100 euros if you win a local DM competition, or we don’t hold any competitions and I give everyone some money (not the same amount!). How much do you think you would deserve then? ",Give a random number,Time you went to be Yesterday,What makes a good day for you (1)?,What makes a good day for you (2)?
-0,4-5-2022 12:12:07,Artificial Intelligence,yes,0,mu,nee,female,neither,1998-05-02,0,no,0,5,888,23:00:00,coffee,sun
-1,4-5-2022 12:12:07,Other,yes,0,mu,nee,male,fat,2000-02-29,0,yes,200,1,12,00:00:00,7777,8964
-3,4-5-2022 12:12:09,Other,yes,0,unknown,nee,male,neither,1997-05-11,0,no,20,100,31,14:00:00,good food,no stress
-4,4-5-2022 12:12:15,Artificial Intelligence,yes,1,mu,ja,male,fat,1997-10-03,0,no,2,100,86,07:20:00,Sunshine,Good Food
-5,4-5-2022 12:12:20,Artificial Intelligence,no,unknown,sigma,unknown,female,fat,2022-04-28,0,no,48,1000,87,00:00:00,This lecture,Sun
-6,4-5-2022 12:12:26,Artificial Intelligence,yes,0,unknown,nee,male,neither,1998-10-15,1,no,20,0.1,6,00:35:00,sunshine,happiness
-7,4-5-2022 12:12:29,Artificial Intelligence,yes,0,unknown,ja,male,neither,2022-11-17,0,no,100,10,50,00:00:00,Rainy Day,Weekend
-8,4-5-2022 12:12:29,Other,yes,0,mu,ja,male,neither,1995-04-22,0,no,20,100 / the number of people,42,23:00:00,Food,Relaxation
-9,4-5-2022 12:12:29,Artificial Intelligence,no,0,mu,ja,female,fat,2000-07-21,5,yes,50,10,88,12:00:00,"sun, friends and wine","relaxing, watching a show, hockey"
-11,4-5-2022 12:12:32,Business Analytics,yes,1,unknown,ja,female,fat,2022-03-05,0,no,50,0.1,56,00:00:00,sun,holiday
-13,4-5-2022 12:12:36,Other,no,0,mu,nee,male,fat,1982-10-19,0,yes,65,100,8,00:00:00,Good sleep,Good work
-14,4-5-2022 12:12:42,Artificial Intelligence,yes,0,mu,ja,male,fat,1999-02-22,0,yes,70,100,420,12:00:00,Good mental state.,A challenge.
-15,4-5-2022 12:12:50,Other,yes,1,mu,ja,male,neither,2022-07-23,-4,unknown,over 9000,1000,42,00:00:00,6,9
-17,4-5-2022 12:12:57,Artificial Intelligence,no,unknown,mu,ja,female,fat,1999-11-11,0,no,34,5,88,12:55:00,Having a fun lecture,Hanging out with my friends
-18,4-5-2022 12:13:04,Artificial Intelligence,yes,0,mu,ja,male,fat,1994-04-22,1,no,70,1/n,22,00:00:00,Flat white,sun
-19,4-5-2022 12:13:08,Other,yes,0,mu,nee,male,fat,1997-01-30,0,no,15,0,17,00:00:00,food,tv series
-20,4-5-2022 12:13:11,Other,yes,0,mu,nee,male,I have no idea what you are talking about,1999-08-23,11,yes,60,100,0,20:00:00,sun,good food
-21,4-5-2022 12:13:14,Computer Science,yes,1,unknown,ja,female,I have no idea what you are talking about,1998-07-10,3,no,1000,at least 10,12,00:00:00,sun,wind:(
-22,4-5-2022 12:13:15,Artificial Intelligence,unknown,0,mu,nee,female,fat,1995-11-03,0,unknown,10,100,800039995,03:00:00,Friends,Water
-26,4-5-2022 12:13:16,Computational Science,no,0,mu,ja,male,I have no idea what you are talking about,1998-09-01,1,no,56,The price of Febo kroketje,6.98,23:32:00,Head,Good weather
-28,4-5-2022 12:13:19,Other,yes,0,sigma,ja,female,fat,1997-07-02,2,yes,79,55,11,00:00:00,Movies,Coffee
-29,4-5-2022 12:13:24,Computational Science,no,0,mu,nee,male,I have no idea what you are talking about,1998-06-19,1,no,33,99,3.14,00:00:00,Good food,Good weather
-30,4-5-2022 12:13:24,Other,yes,0,mu,nee,female,I have no idea what you are talking about,1997-08-26,2,no,80,30,32,12:30:00,Sunnnn,Croissant
-31,4-5-2022 12:13:26,Artificial Intelligence,yes,0,mu,nee,female,neither,1999-04-22,1,no,10,"0,5",1278946,00:00:00,alcohol,relax
-32,4-5-2022 12:13:26,Other,yes,0,mu,nee,male,I have no idea what you are talking about,1900-01-01,0,yes,100,1,651,00:00:00,Datamining,Datamining2
-33,4-5-2022 12:13:29,Artificial Intelligence,no,0,sigma,nee,female,neither,2022-04-01,20,no,90,A lot,24,00:00:00,food,sleep
-34,4-5-2022 12:13:34,Artificial Intelligence,no,0,sigma,ja,male,I have no idea what you are talking about,1996-05-14,5,no,70,20,2500,00:00:00,Weather,Beer
-37,4-5-2022 12:13:39,Artificial Intelligence,yes,1,mu,ja,male,I have no idea what you are talking about,1996-11-02,1,no,69,1 cent,420,00:00:00,Working hard,Playing volleyball
-38,4-5-2022 12:13:41,Artificial Intelligence,yes,1,mu,ja,male,fat,1998-10-02,0,no,45,200,-1,01:34:00,Sunshine,Friends
-39,4-5-2022 12:13:41,Other,yes,0,mu,ja,male,fat,1998-06-09,0,no,7,0.60,1946,09:00:00,Beer,Ajax
-43,4-5-2022 12:13:45,Artificial Intelligence,no,0,mu,nee,female,slim,1998-06-10,2,no,70,10 cents,765,00:00:00,Seeing Friends,Nice weather
-44,4-5-2022 12:13:47,Other,yes,unknown,mu,ja,male,fat,1997-08-30,0,no,20,100,3,23:30:00,Satisfaction,Spare time
-45,4-5-2022 12:13:47,Other,yes,0,mu,ja,male,neither,2022-01-01,0,no,60,100/100,81,00:00:00,2,4
-46,4-5-2022 12:13:49,Computational Science,yes,0,unknown,nee,male,fat,1998-05-08,1,no,0,100,109,23:00:00,sun,beach
-47,4-5-2022 12:13:50,Artificial Intelligence,yes,1,mu,ja,male,I have no idea what you are talking about,1997-04-09,0,no,20,20,4444,00:00:00,sun,holiday
-50,4-5-2022 12:13:54,Computational Science,yes,0,mu,ja,female,I have no idea what you are talking about,2000-04-03,1,unknown,5,100,1,00:00:00,sun,gym
-51,4-5-2022 12:13:57,Artificial Intelligence,no,0,sigma,unknown,not willing to answer,neither,1999-09-07,1,no,88,5,401,01:00:00,Snacks,Good grades
-52,4-5-2022 12:13:58,Artificial Intelligence,yes,unknown,mu,ja,female,neither,1999-08-30,0,no,60,50 euros,7,22:00:00,With family and loved ones,Being in good health
-53,4-5-2022 12:13:59,Business Analytics,yes,1,mu,ja,male,I have no idea what you are talking about,2000-03-15,2,no,75,20,19,23:45:00,Sun,Sleep
-54,4-5-2022 12:14:00,Artificial Intelligence,yes,1,mu,ja,male,I have no idea what you are talking about,1998-06-24,2,unknown,69,100,42,00:00:00,Beer,More beer
-55,4-5-2022 12:14:05,Artificial Intelligence,yes,0,mu,nee,intersex,neither,1974-02-15,45,no,34,99,1,00:00:00,Cookies,I don't know 
-58,4-5-2022 12:14:06,Other,yes,0,unknown,nee,male,I have no idea what you are talking about,2022-04-04,5,no,99,100,77,00:34:00,waking up early,finishing things for the day
-59,4-5-2022 12:14:10,Artificial Intelligence,yes,0,mu,ja,male,fat,1998-10-19,6,no,30,20,69,13:15:00,Gym,Friends
-60,4-5-2022 12:14:11,Other,yes,1,mu,ja,male,neither,2022-07-13,1,no,50,100,69,00:00:00,whole lotta bread,good wave check
-62,4-5-2022 12:14:12,Artificial Intelligence,no,0,mu,nee,gender fluid,I have no idea what you are talking about,1997-08-08,0,no,69,69,420,00:00:00,420,69
-63,4-5-2022 12:14:14,Other,no,unknown,mu,ja,gender fluid,slim,2022-12-23,1,yes,34,100,280,23:00:00,Having a snickers ,Food
-64,4-5-2022 12:14:14,Computational Science,no,0,mu,nee,male,I have no idea what you are talking about,1997-07-28,2,no,40,An appropriate amount,67,22:30:00,Free food,Free coffee
-65,4-5-2022 12:14:15,Artificial Intelligence,yes,0,sigma,nee,male,neither,2022-12-22,0,no,1,3.50,2,15:30:00,Sunshine,Chocolate Milk
-66,4-5-2022 12:14:15,Other,yes,0,unknown,nee,female,slim,1997-05-12,2,no,65,100,33,00:00:00,sleep,eat
-68,4-5-2022 12:14:19,Other,no,0,sigma,nee,female,neither,2022-12-09,0,no,80,a lot,8271,23:00:00,sun,not rain
-69,4-5-2022 12:14:20,Other,yes,0,mu,ja,male,fat,1999-12-07,0,no,10,I prefer not holding competitions and receiving money everone,17,02:00:00,Sunshine,Good sex
-70,4-5-2022 12:14:22,Computer Science,yes,1,mu,ja,male,fat,1999-09-12,1,no,100,1000000,4,00:00:00,No deadlines/exam,Good weather
-72,4-5-2022 12:14:24,Computer Science,no,0,mu,nee,male,I have no idea what you are talking about,1999-08-20,0,no,200,20,2,00:00:00,Food,Sleep
-73,4-5-2022 12:14:24,Other,no,0,mu,nee,male,I have no idea what you are talking about,1997-12-06,2,yes,1E+22,12,0,13:12:00,alcohol,10
-74,4-5-2022 12:14:27,Other,yes,0,mu,unknown,male,I have no idea what you are talking about,1995-07-10,2,unknown,42,30,365,00:00:00,Good food and sports,Friends
-75,4-5-2022 12:14:28,Other,no,0,mu,nee,male,fat,1997-09-06,1,no,80,5,33,00:00:00,being stoic,accepting change
-76,4-5-2022 12:14:29,Computational Science,no,0,mu,ja,male,fat,1997-03-03,0,no,50,10,5,04:35:00,game,beautiful girl
-77,4-5-2022 12:14:29,Other,no,0,mu,nee,male,slim,2022-01-18,5,yes,100,100,41,00:00:00,Kissing thomas,Alcohol 
-78,4-5-2022 12:14:30,Other,no,0,unknown,nee,female,neither,2001-04-25,3,yes,60,0,36,00:00:00,Joy,More jou
-79,4-5-2022 12:14:31,Artificial Intelligence,yes,0,mu,nee,male,neither,1998-11-20,1,no,50,20,69,02:00:00,Sex,Sex
-80,4-5-2022 12:14:33,Computational Science,yes,1,unknown,ja,male,slim,2022-07-23,1,yes,10,100,73,12:00:00,Reading,Music
-82,4-5-2022 12:14:36,Computer Science,yes,unknown,mu,ja,male,neither,2022-04-20,3,yes,100,100,42,10:45:00,No lectures ,No assignments 
-83,4-5-2022 12:14:37,Business Analytics,yes,1,mu,nee,female,fat,1996-05-19,0,no,89,2,86,00:00:00,Food,Completed to-do's
-84,4-5-2022 12:14:40,Artificial Intelligence,yes,0,mu,nee,male,I have no idea what you are talking about,1896-11-02,5,unknown,1000,0,980000000000000789,00:00:00,Beer,Beer
-85,4-5-2022 12:14:42,Artificial Intelligence,yes,1,mu,nee,female,neither,2001-02-13,0,no,yes.,1 million euros,432,00:00:00,Frozen yoghurt,Coffee
-86,4-5-2022 12:14:43,Computer Science,no,1,mu,ja,male,fat,1999-01-24,1,no,100,100,88,22:00:00,Eat food ,Sleep 
-87,4-5-2022 12:14:44,Other,yes,unknown,mu,ja,male,slim,1999-04-04,1,no,10,100,3,00:00:00,Chocolate ,Sun
-88,4-5-2022 12:14:46,Computer Science,yes,0,mu,ja,male,fat,1997-01-03,3,no,0,100,42,00:00:00,Passing assignments ,Passing exams
-89,4-5-2022 12:14:48,Other,yes,0,unknown,nee,female,fat,2022-10-11,3,no,80,50,100,12:45:00,no homework,earn money
-90,4-5-2022 12:14:53,Other,yes,0,mu,ja,gender fluid,fat,0420-09-06,-2,yes,101,100,10.3,06:00:00,Drugs ,Sex
-91,4-5-2022 12:14:57,Artificial Intelligence,yes,1,unknown,nee,female,neither,2000-05-31,2,no,60,10,14,00:00:00,Sun,Day off
-92,4-5-2022 12:14:57,Other,yes,0,unknown,ja,male,fat,2022-10-11,0,no,30,500,6,07:00:00,No complications,Sport
-93,4-5-2022 12:14:57,Computational Science,no,0,mu,nee,female,neither,1900-01-01,6,unknown,150,0,3645,00:00:00,chocolate,more chocolate
-94,4-5-2022 12:14:59,Other,yes,0,mu,ja,male,I have no idea what you are talking about,1998-03-27,1,no,100,100000,987654321,00:00:00,Playing,Studying 
-96,4-5-2022 12:15:02,Other,no,0,mu,nee,female,neither,1998-08-04,0,no,80,100,69,09:00:00,Good sleep,No class
-98,4-5-2022 12:15:09,Computer Science,yes,1,mu,ja,male,neither,2022-03-13,7,no,40,100/n,69,10:00:00,Food,Sleep
-99,4-5-2022 12:15:09,Other,yes,0,mu,nee,female,neither,2022-11-13,2,no,10,100,6,00:45:00,food,friends
-100,4-5-2022 12:15:12,Artificial Intelligence,yes,1,mu,ja,female,I have no idea what you are talking about,1999-06-08,a couple,no,100,20,3,23:00:00,coffee,pasta
-101,4-5-2022 12:15:12,Other,no,unknown,unknown,nee,male,I have no idea what you are talking about,1982-12-01,250,no,10,10,227,00:00:00,Good coffee,Challeging works
-102,4-5-2022 12:15:13,Business Analytics,yes,0,sigma,ja,female,neither,2000-10-21,7,no,60,70,247,23:00:00,Sun,Food
-103,4-5-2022 12:15:15,Artificial Intelligence,yes,0,mu,nee,male,fat,1998-03-11,0,no,44,24.99,57,10:21:39,EDDA grades,sun
-104,4-5-2022 12:15:16,Artificial Intelligence,yes,0,mu,ja,not willing to answer,I have no idea what you are talking about,1969-04-20,1,unknown,3,0,73553801531488322931570535984775796225797789,04:20:00,Surveys,Data mining
-106,4-5-2022 12:15:16,Other,no,0,mu,ja,female,fat,2022-04-04,4,no,88,100 euros,42,00:00:00,delicious food,friends company
-107,4-5-2022 12:15:18,Artificial Intelligence,no,0,mu,nee,male,fat,1999-03-08,3,unknown,100,7,94736253,00:55:00,Love 😓,Friends
-108,4-5-2022 12:15:18,Computer Science,yes,0,unknown,ja,not willing to answer,neither,1999-02-11,4,unknown,10,25,1947271047294720^10204847,23:30:00,Xtc,Money
-109,4-5-2022 12:15:20,Computer Science,yes,1,mu,ja,male,slim,1995-10-13,2,no,50,50,13,00:00:00,Kafeneion Amsterdam ,More Kafeneion Amsterdam 
-111,4-5-2022 12:15:25,Artificial Intelligence,yes,1,mu,ja,female,fat,1998-11-22,1,no,5,2,56,00:00:00,Sunshine,Free time
-112,4-5-2022 12:15:25,Computer Science,yes,1,mu,ja,female,fat,2022-05-26,1,no,5,10,7,23:30:00,a nice dinner,the sun
-113,4-5-2022 12:15:27,Computer Science,yes,0,sigma,ja,male,neither,1998-04-07,300,no,10,1000,7,01:30:00,Fun people,Beer
-114,4-5-2022 12:15:29,Other,yes,0,mu,ja,male,fat,1997-09-04,1,no,0,20,25,21:20:00,food,sleep
-115,4-5-2022 12:15:30,Artificial Intelligence,no,0,mu,ja,female,neither,1996-10-20,3,no,40,10eur,567,02:00:00,Flow state,Good food
-116,4-5-2022 12:15:32,Other,yes,unknown,mu,ja,female,fat,1999-04-22,1,no,40,50,58,00:00:00,1,1
-117,4-5-2022 12:15:37,Artificial Intelligence,yes,0,mu,ja,female,fat,1998-01-01,1,no,0,50,23,03:00:00,food,being with the people i love
-118,4-5-2022 12:15:38,Artificial Intelligence,yes,0,mu,ja,female,slim,1999-03-25,2,no,3,66,43,23:30:00,Coffee,Food
-119,4-5-2022 12:15:41,Computational Science,no,0,mu,nee,male,fat,1998-05-08,0,no,69,"69,69",69,01:30:00,Sun,Wine
-121,4-5-2022 12:15:41,Artificial Intelligence,yes,0,mu,ja,male,fat,2022-02-09,0,no,1,10,73,02:20:00,Sun,Weekend
-122,4-5-2022 12:15:42,Computational Science,unknown,unknown,unknown,unknown,female,neither,2000-01-01,5,no,10,69,9,00:00:00,sun,friends
-123,4-5-2022 12:15:42,Artificial Intelligence,yes,0,mu,ja,female,fat,1998-08-08,0,no,14,5,8,23:00:00,Party,Tennis
-124,4-5-2022 12:15:43,Other,no,1,mu,nee,male,I have no idea what you are talking about,1995-11-11,7,yes,10,10,21,23:40:00,VIKINGS!,My house not burning down :)
-125,4-5-2022 12:15:43,Artificial Intelligence,no,1,mu,nee,male,slim,1998-09-26,0,no,69,99,42,05:00:00,sleep,deliocious food
-126,4-5-2022 12:15:44,Artificial Intelligence,no,0,mu,ja,male,fat,1991-04-29,5,no,40,1,5813,01:00:00,Beers,Movies
-128,4-5-2022 12:15:44,Artificial Intelligence,yes,unknown,mu,ja,male,I have no idea what you are talking about,1997-12-18,1,no,30,30,36,00:00:00,Food football and sleep,Gym study and drinks
-129,4-5-2022 12:15:44,Artificial Intelligence,yes,1,mu,ja,female,neither,1997-07-08,1,yes,60,100,42,00:00:00,Traveling with friends ,Eating with family 
-130,4-5-2022 12:15:44,Computer Science,no,0,mu,nee,male,neither,2000-04-12,1,no,60,0.10,88,23:00:00,Nice weather,Good food
-131,4-5-2022 12:15:45,Artificial Intelligence,yes,1,mu,nee,male,I have no idea what you are talking about,2000-04-22,8,no,50,0.16,9,23:00:00,Coffee,Friends
-132,4-5-2022 12:15:45,Computational Science,no,0,mu,ja,male,I have no idea what you are talking about,2022-11-27,0,no,40,What?,4,02:30:00,Lack of stress,Feeling productive
-133,4-5-2022 12:15:45,Artificial Intelligence,yes,0,sigma,ja,female,fat,1997-02-24,0,no,30,IDK,47,11:30:00,SUNSHINE 😭,Laughter 
-134,4-5-2022 12:15:45,Other,yes,0,mu,ja,male,neither,1996-04-26,0,no,20,10,76853,22:00:00,Sun,Spring
-135,4-5-2022 12:15:45,Other,yes,unknown,mu,nee,male,fat,1900-01-01,1,no,75,0.15,"7,66789E+13",11:45:00,Pizza,WFH
-136,4-5-2022 12:15:45,Other,yes,0,mu,nee,male,slim,2022-09-01,0,no,yes,1,8,00:40:00,Sushi,Anime
-137,4-5-2022 12:15:46,Artificial Intelligence,yes,0,mu,ja,female,neither,1998-08-17,0,yes,68,23,83,00:15:00,friends,sun
-138,4-5-2022 12:15:46,Business Analytics,yes,1,mu,ja,female,slim,1999-07-22,4,no,22,100,12,07:00:00,Food,A smile
-139,4-5-2022 12:15:46,Artificial Intelligence,no,0,mu,nee,female,fat,1997-10-30,0,no,70,7,3,00:07:00,sun,sex
-140,4-5-2022 12:15:47,Artificial Intelligence,yes,0,mu,nee,female,fat,1997-04-25,1,no,30,10,60,23:00:00,food,love
-142,4-5-2022 12:15:47,Other,yes,0,mu,unknown,female,neither,1998-02-16,0,no,47,7,83,04:00:00,good food,sun
-143,4-5-2022 12:15:48,Other,no,0,mu,nee,male,I have no idea what you are talking about,1996-04-02,4,no,45,50,10,01:53:00,Sun ,Rain
-144,4-5-2022 12:15:48,Artificial Intelligence,no,0,mu,nee,male,fat,1996-03-18,0,no,75,1,4,00:00:00,Sports,Meditation
-145,4-5-2022 12:15:48,Computer Science,no,0,sigma,ja,male,fat,1996-05-22,1,no,10,35,7,01:00:00,Good food,Good sex
-146,4-5-2022 12:15:48,Other,yes,0,mu,nee,male,neither,2022-06-23,0,no,80,0.16,1,00:00:00,8 hours of sleep ,no stress about uni
-147,4-5-2022 12:15:48,Business Analytics,yes,0,mu,ja,female,fat,1999-10-11,0,no,40,5,8,00:00:00,Hours of sleep,Good food
-148,4-5-2022 12:15:49,Computational Science,yes,unknown,mu,ja,not willing to answer,neither,2022-12-22,2,no,80,100/#people taking the course,4.34,03:00:00,Spending time with friends,Free time 
-149,4-5-2022 12:15:49,Computer Science,yes,1,mu,ja,male,I have no idea what you are talking about,2022-10-31,Zero,no,10,5,69,01:00:00,Friends,Food
-150,4-5-2022 12:15:49,Other,yes,unknown,mu,unknown,female,fat,1998-04-05,0,no,50,1,68,23:15:00,Sunshine,Free time
-151,4-5-2022 12:15:49,Other,yes,0,mu,nee,male,fat,1996-11-23,0,no,33,88,8,01:00:00,good food,feyenoord winning
-153,4-5-2022 12:15:49,Artificial Intelligence,yes,unknown,mu,nee,male,fat,1997-10-19,1,yes,30,1000,42,01:00:00,coding,food
-154,4-5-2022 12:15:50,Other,yes,1,mu,nee,female,I have no idea what you are talking about,2022-06-23,0,no,34,"0,00006",651893,00:15:00,Sleep,More Sleep
-155,4-5-2022 12:15:50,Business Analytics,yes,1,mu,ja,female,fat,2022-11-29,1,no,20,1,9462648,23:00:00,Sun,Friends
-156,4-5-2022 12:15:50,Artificial Intelligence,yes,unknown,mu,ja,male,slim,2022-09-01,5,no,60,5,68,23:00:00,Free,Warmth
-157,4-5-2022 12:15:50,Artificial Intelligence,no,0,mu,nee,male,I have no idea what you are talking about,1998-04-18,2,no,70,0,4,00:00:00,food,sleep
-158,4-5-2022 12:15:51,Artificial Intelligence,yes,1,mu,ja,male,I have no idea what you are talking about,2022-12-20,1,unknown,20,5,521,00:00:00,Laughter,Friends
-159,4-5-2022 12:15:51,Artificial Intelligence,no,0,mu,nee,male,fat,1996-11-12,0,no,75,5,77,23:00:00,Sunny,Vacation
-160,4-5-2022 12:15:51,Artificial Intelligence,no,1,mu,ja,male,fat,2022-06-19,1,no,20,At least half 😎,69,00:00:00,Productive,good times with friends and family
-161,4-5-2022 12:15:51,Other,no,0,mu,nee,male,neither,1999-04-19,1,yes,15,0,9664367943217790643378,00:00:00,Sex,Sports
-162,4-5-2022 12:15:52,Other,no,0,mu,nee,female,neither,2022-06-05,0,no,100,1,3,03:00:00,feeling content,not too much stress
-163,4-5-2022 12:15:52,Other,no,0,mu,ja,male,I have no idea what you are talking about,1995-04-21,0,no,0,"0,16",2230,00:00:00,Sports,Drinking
-164,4-5-2022 12:15:52,Computational Science,no,0,sigma,nee,male,neither,2022-11-11,0,yes,20,100,13,01:00:00,A nice deep sleep,working out in the gym
-165,4-5-2022 12:15:52,Computer Science,no,0,mu,ja,male,neither,1998-10-16,0,no,80,20,420,06:00:00,good sleep,good dinner
-166,4-5-2022 12:15:53,Artificial Intelligence,yes,0,mu,ja,female,I have no idea what you are talking about,1994-07-16,6,yes,36,6,163,21:43:00,Good food,Sunshine
-167,4-5-2022 12:15:53,Other,yes,0,mu,nee,male,fat,1999-10-08,5,no,50,0.50,3,23:45:00,Get up early,Don’t drink day before
-168,4-5-2022 12:15:53,Other,yes,0,sigma,nee,male,fat,1999-04-14,0,no,40,0,e,01:00:00,Sun,Food
-169,4-5-2022 12:15:53,Business Analytics,yes,1,mu,ja,female,fat,1999-02-18,0,no,60,1,18,00:00:00,Friends,Nice weather
-170,4-5-2022 12:15:54,Business Analytics,yes,unknown,mu,ja,female,fat,1998-07-13,0,no,12,1,2,00:12:00,Friends,Party
-171,4-5-2022 12:15:54,Other,no,0,mu,nee,female,neither,1998-10-22,2,no,60,10,4,23:00:00,Stresslevel,Social interaction
-172,4-5-2022 12:15:55,Artificial Intelligence,no,0,mu,nee,female,neither,2022-04-15,1,no,70,2,33,23:00:00,A lot of sleep,Time to read 
-173,4-5-2022 12:15:55,Other,yes,0,mu,nee,female,neither,1998-10-12,5,unknown,70,5,5,02:00:00,Sun,good meal
-174,4-5-2022 12:15:56,Other,no,0,sigma,nee,male,neither,2022-08-03,1,no,75,60,3,12:00:00,Sunny,Beer
-175,4-5-2022 12:15:56,Artificial Intelligence,yes,1,mu,ja,female,fat,1999-06-18,2,no,60,25,6,23:00:00,exercise,good food
-177,4-5-2022 12:15:56,Artificial Intelligence,unknown,0,unknown,ja,male,neither,1999-12-31,0,no,100,1,24,02:00:00,Chocolate,Freedom
-178,4-5-2022 12:15:56,Business Analytics,yes,1,mu,ja,female,I have no idea what you are talking about,1997-04-27,0,no,20,0.16 ,37,00:00:00,Food,Friends
-180,4-5-2022 12:15:57,Artificial Intelligence,yes,0,mu,ja,not willing to answer,I have no idea what you are talking about,1900-11-11,2,yes,69,100,56799,00:00:00,Beer,Sunday funday
-181,4-5-2022 12:15:57,Other,no,0,mu,nee,male,I have no idea what you are talking about,1996-12-12,0,no,85,10 euros,6,22:00:00,weather,no work
-182,4-5-2022 12:15:57,Other,yes,unknown,mu,ja,female,neither,1996-06-03,0,unknown,0,1,9,22:00:00,Food,Sleep
-183,4-5-2022 12:15:57,Business Analytics,yes,0,mu,nee,female,neither,1998-01-27,0,no,50,"0,16",8,23:28:00,Good night of sleep,Low stress level
-184,4-5-2022 12:15:58,Artificial Intelligence,yes,0,mu,ja,female,I have no idea what you are talking about,1999-02-26,1,no,55,50,55,05:30:00,SUN,drinks with friends
-185,4-5-2022 12:15:58,Computer Science,no,0,mu,ja,male,neither,1102-04-22,7,no,23,100,77,00:00:00,Successful debugging,Seeing my girlfriend 
-186,4-5-2022 12:15:58,Computer Science,no,1,sigma,ja,male,neither,1996-04-22,3,no,40,100,66,00:00:00,Good Sleep,Diet on point
-187,4-5-2022 12:15:59,Artificial Intelligence,yes,0,mu,nee,male,I have no idea what you are talking about,1996-10-01,3,no,70,100,54.727.163.638.182.600.000.000.000.000.000.000.000,23:00:00,Being with friends,Eating good food
-188,4-5-2022 12:15:59,Other,yes,1,sigma,ja,male,I have no idea what you are talking about,2022-05-04,>600,yes,7.5,0.1,987654321,22:30:00,Chocolate,Sun
-189,4-5-2022 12:15:59,Other,yes,0,mu,ja,female,neither,1999-07-15,0,no,70,10,8,22:30:00,Sports,Activity
-190,4-5-2022 12:15:59,Business Analytics,yes,0,mu,nee,male,neither,2022-08-18,4,no,11,6 cents,96274374,20:00:00,A dm lecture,A dm QA
-191,4-5-2022 12:15:59,Other,yes,0,mu,nee,male,neither,1995-03-19,0,no,70,equal,78945,02:00:00,coffee in the morning,beer in the evening
-192,4-5-2022 12:15:59,Other,yes,0,sigma,nee,male,fat,2022-03-29,4,yes,100,100,7,00:00:00,3,2
-193,4-5-2022 12:16:00,Artificial Intelligence,unknown,1,mu,nee,male,I have no idea what you are talking about,1996-08-24,0,yes,11,1/n,42,22:09:00,I don't know,I really don't know
-194,4-5-2022 12:16:00,Computational Science,yes,0,mu,ja,male,I have no idea what you are talking about,1997-06-21,0,no,1,10,7654321,00:30:00,Applying data mining techniques,Netflix with girlfriend
-195,4-5-2022 12:16:00,Computer Science,yes,0,mu,ja,male,fat,1999-07-02,1,no,80,20,7,00:00:00,no class,no homework
-196,4-5-2022 12:16:00,Business Analytics,yes,unknown,mu,nee,female,slim,2022-04-28,0,no,60,100,7,23:00:00,no stress from school,go to restaurant
-197,4-5-2022 12:16:00,Computer Science,yes,1,mu,ja,female,neither,1994-10-12,2,no,80,99,8,00:00:00,my cat purs on me,seeing sun in Netherlands
-198,4-5-2022 12:16:01,Computational Science,no,0,mu,nee,male,I have no idea what you are talking about,1998-08-27,0,no,30,1,80,00:00:00,Nice weather,Social interaction 
-199,4-5-2022 12:16:01,Other,yes,0,unknown,ja,female,fat,1997-06-17,0,no,59,60,100,02:00:00,Sunshine,Plan
-200,4-5-2022 12:16:01,Business Analytics,yes,0,mu,ja,male,neither,1111-01-01,0,no,2,12,4,23:00:00,Sun,BBQ
-201,4-5-2022 12:16:01,Artificial Intelligence,no,0,mu,nee,female,fat,2022-04-01,2,no,60,10,7,23:50:00,no lecture,no home assignment
-202,4-5-2022 12:16:01,Other,yes,1,sigma,nee,male,fat,1998-11-12,0,no,25,500,198956654894562566469615,00:25:00,Good food,Winning the lottery
-203,4-5-2022 12:16:02,Computational Science,no,1,mu,ja,female,neither,2004-03-12,8,no,23,40,9,22:00:00,time for myself,bouldering
-204,4-5-2022 12:16:02,Artificial Intelligence,no,0,mu,ja,female,I have no idea what you are talking about,2022-12-16,0,no,40,1,5792,23:40:00,socializing,productivity
-206,4-5-2022 12:16:02,Artificial Intelligence,no,0,mu,ja,female,neither,1997-01-13,2,no,40,30,5,00:00:00,Friends,Happy moments
-208,4-5-2022 12:16:02,Other,yes,unknown,mu,nee,male,fat,2022-08-09,0,no,20,If I win the the competition I feel like I deserve the total amount. Otherwise 1/the group,172,00:00:00,blue sky with a shiny sun,Knowing i have a spare day
-209,4-5-2022 12:16:03,Artificial Intelligence,no,0,unknown,ja,male,neither,1998-12-08,1,yes,37,3,8,00:00:00,Sun and park,Sun and chill
-210,4-5-2022 12:16:03,Artificial Intelligence,no,0,mu,nee,female,neither,1995-12-21,4,no,1,0,21,00:00:00,sunshine ,fun stuff on the planning
-212,4-5-2022 12:16:03,Other,yes,0,sigma,nee,male,fat,2000-10-17,5,no,12,0.5,11223344556677889900,02:34:00,No obligations,Games
-213,4-5-2022 12:16:03,Artificial Intelligence,no,0,mu,nee,female,I have no idea what you are talking about,1991-07-12,1,no,80,1,6,00:00:00,SUN,fun
-214,4-5-2022 12:16:05,Artificial Intelligence,no,0,mu,nee,female,neither,1997-12-12,0,unknown,50,2,88,00:00:00,Sunny weather,Feeling in tune with yourself and your surroundings
-215,4-5-2022 12:16:05,Computer Science,no,0,mu,nee,male,slim,1999-08-13,1,no,50,1,13,01:30:00,warm weather,not having to get up early
-216,4-5-2022 12:16:05,Artificial Intelligence,no,0,mu,nee,male,fat,1997-04-22,0,no,15,5,5,01:00:00,no work,good food
-217,4-5-2022 12:16:06,Computational Science,no,0,mu,nee,female,neither,1997-11-07,4,no,29,50,29,00:00:00,Coffee,My bed
-218,4-5-2022 12:16:06,Other,no,0,mu,ja,male,I have no idea what you are talking about,1991-01-01,8,no,80,20,8,23:00:00,Sun,Food
-219,4-5-2022 12:16:06,Artificial Intelligence,no,0,mu,ja,female,neither,1999-06-18,0,no,72,100/624=0.16,361,23:00:00,Some love from friends/fam/bf,good food
-220,4-5-2022 12:16:06,Business Analytics,yes,0,mu,nee,male,I have no idea what you are talking about,1998-02-05,0,no,70,1,5,00:00:00,good weather,eating
-221,4-5-2022 12:16:06,Other,yes,0,mu,ja,male,neither,1999-03-09,2,no,69,"4,2",4729264827364547292736464629,02:00:00,Andrea,DMT
-224,4-5-2022 12:16:06,Business Analytics,yes,1,mu,ja,female,neither,1998-10-01,0,no,40,20,2,00:37:00,sun,meeting friends
-225,4-5-2022 12:16:06,Business Analytics,yes,0,mu,nee,female,fat,2022-05-20,0,no,45,30,12,00:00:00,sport,call my mother
-226,4-5-2022 12:16:08,Artificial Intelligence,no,0,mu,ja,male,fat,2000-07-18,1,no,5,30,4,23:45:00,Not rain ,Food
-227,4-5-2022 12:16:08,Artificial Intelligence,yes,1,mu,ja,male,fat,1994-05-01,0,no,10,125,13,23:30:00,Sun,Feeling good
-228,4-5-2022 12:16:08,Artificial Intelligence,no,unknown,mu,ja,male,I have no idea what you are talking about,1993-07-15,0,no,33,33,sqrt(687458.9665),00:00:00,sleeping long,smoke weed
-229,4-5-2022 12:16:09,Other,yes,0,unknown,nee,male,fat,1999-04-13,0,no,30,0.20,11,00:30:00,Good weather,Going to the gym
-230,4-5-2022 12:16:09,Other,yes,0,mu,ja,male,fat,2022-04-24,0,yes,50,10,122,02:00:00,Sunshine,Good food
-231,4-5-2022 12:16:09,Computational Science,no,0,mu,ja,male,neither,2022-07-14,0,no,10,2,37,23:30:00,nice weather,free money
-232,4-5-2022 12:16:09,Artificial Intelligence,yes,1,mu,nee,male,I have no idea what you are talking about,1998-06-05,0,no,70,50,7,00:00:00,good weather,good food
-233,4-5-2022 12:16:09,Other,yes,0,unknown,nee,male,fat,1995-01-20,4,no,30,"0,2",5,23:00:00,Doing nothing important,Talking with friends
-235,4-5-2022 12:16:10,Artificial Intelligence,yes,1,mu,ja,female,neither,2000-01-01,0,no,81,13,4,03:00:00,No lectures,Sunny weather
-236,4-5-2022 12:16:10,Computer Science,yes,0,sigma,ja,male,unknown,2022-11-04,0,unknown,10,0,"6,96788E+14",17:00:00,sunlight,No wind
-237,4-5-2022 12:16:10,Artificial Intelligence,yes,0,mu,ja,female,slim,1996-08-21,0,yes,-100,0.1,∞,02:00:00,Coffee,Sleep
-238,4-5-2022 12:16:11,Other,yes,1,mu,ja,male,neither,2022-12-10,0,no,0,5,10,22:22:00,Sun,Fun
-239,4-5-2022 12:16:11,Computational Science,yes,0,sigma,nee,male,fat,1995-08-01,2,yes,19,100,27,00:00:00,sun,sport
-240,4-5-2022 12:16:11,Business Analytics,yes,0,mu,nee,male,neither,1997-12-08,5,no,50,0.25€,8,01:00:00,Good food,Nice whether 
-241,4-5-2022 12:16:11,Artificial Intelligence,yes,1,mu,ja,male,fat,1999-06-14,1,no,10,0.16,6,00:15:00,Sunny weather,Exercise
-242,4-5-2022 12:16:11,Artificial Intelligence,yes,1,sigma,ja,male,neither,1992-12-18,0,no,100,1000000,69,00:00:00,thuisbezorgd,gaming
-243,4-5-2022 12:16:11,Other,no,0,mu,unknown,male,slim,1997-11-14,2,no,80,30,333,01:00:00,Lots of food,Going out in a sunny day
-244,4-5-2022 12:16:11,Computer Science,yes,1,mu,ja,male,fat,1998-04-23,2,no,80,Definately,10,22:00:00,Win lottery,Win lottery again
-247,4-5-2022 12:16:14,Other,no,0,mu,nee,male,I have no idea what you are talking about,2022-06-07,8,no,69,100 euros divided over 600 students. 0.6 euros,6665437996,23:56:00,Cake,Cookies
-248,4-5-2022 12:16:15,Artificial Intelligence,no,0,mu,nee,male,slim,2022-04-11,Im in the web,yes,80,5 euro to buy previously mentioned chocolate,6,01:00:00,Workout, progress in the course
-250,4-5-2022 12:16:18,Artificial Intelligence,yes,0,mu,nee,male,neither,1989-02-09,4,no,80,70,9,09:00:00,food,sleep
-251,4-5-2022 12:16:19,Other,yes,1,mu,ja,male,neither,1998-08-16,0,no,25,0.25 cents,42,00:15:00,Being productive,Listening/making music
-253,4-5-2022 12:16:19,Computational Science,no,0,mu,ja,male,neither,2022-12-20,1,yes,12,110,10,01:30:00,Beer,Sleep
-254,4-5-2022 12:16:19,Artificial Intelligence,yes,0,mu,nee,male,fat,2022-05-31,2,no,30,1 euro,5,01:00:00,Nice dinner,Netflix
-256,4-5-2022 12:16:20,Other,yes,0,mu,ja,female,neither,1999-08-03,1,no,25,5,8,23:30:00,Friends,Drinks
-257,4-5-2022 12:16:20,Artificial Intelligence,yes,0,mu,ja,female,slim,2022-07-02,2,yes,30,8,32,03:00:00,Winkel apple pie,Friends
-258,4-5-2022 12:16:20,Computer Science,no,1,mu,ja,male,neither,2022-10-27,3,no,75,40,6,00:00:00,Wake up late,breakfast
-259,4-5-2022 12:16:22,Computational Science,no,1,mu,nee,female,I have no idea what you are talking about,1996-04-24,6,unknown,70,yo,56,00:00:00,smiles,more smiles
-260,4-5-2022 12:16:22,Artificial Intelligence,no,0,mu,nee,female,I have no idea what you are talking about,1998-05-29,8,unknown,30,50,8,00:00:00,Smile,Laugh
-261,4-5-2022 12:16:23,Artificial Intelligence,no,0,mu,nee,female,fat,1996-02-17,12,no,99,50,9,00:00:00,Having coffee,breakfast
-262,4-5-2022 12:16:24,Computational Science,no,0,mu,nee,female,neither,2222-02-22,3,unknown,30,50,7,00:30:00,Cat,Food
-263,4-5-2022 12:16:26,Other,yes,0,mu,nee,female,neither,1998-02-25,1,yes,15,85,42,02:00:00,Sunshine,Good food
-264,4-5-2022 12:16:27,Computational Science,no,0,mu,ja,female,neither,1996-06-02,0,no,70,75,53,23:00:00,insightful things,not thinking about tomorrow 
-265,4-5-2022 12:16:28,Artificial Intelligence,no,0,mu,ja,male,neither,1998-06-15,0,no,66,5,487,03:00:00,A good sleep,Staying with my best friends
-266,4-5-2022 12:16:29,Other,no,0,mu,ja,male,neither,1999-08-18,5,no,10,2.5,8,01:30:00,Friends,Drinks
-267,4-5-2022 12:16:29,Artificial Intelligence,yes,0,mu,nee,female,fat,2001-05-12,0,unknown,87,i don't understand,42,01:45:00,breakfast,going outside
-268,4-5-2022 12:16:29,Other,no,0,mu,ja,male,I have no idea what you are talking about,1997-11-10,1,no,50,100,11,00:00:00,Time with family and friends ,Good news 
-269,4-5-2022 12:16:35,Other,no,1,mu,ja,male,I have no idea what you are talking about,2022-05-22,0,no,45.8,100,47895734,00:00:00,Food,Food
-270,4-5-2022 12:16:35,Artificial Intelligence,no,0,mu,ja,female,neither,2022-11-29,5,no,10,15,2,23:00:00,Sunny,Meet friends
-271,4-5-2022 12:16:35,Artificial Intelligence,no,0,mu,nee,male,neither,1982-02-14,2,no,70,75,666,23:50:00,"Good sleep, good sport",Good study
-272,4-5-2022 12:16:39,Artificial Intelligence,no,0,sigma,nee,not willing to answer,I have no idea what you are talking about,2000-02-03,0,no,100,I don't understand the question,893,00:15:00,do my thing and gym,lover's kiss
-273,4-5-2022 12:16:49,Computer Science,no,0,sigma,nee,female,I have no idea what you are talking about,1997-06-11,2,no,70,100,11,00:00:00,A warm sunny day with no stress,I answered it already
-274,4-5-2022 12:16:50,Other,yes,0,mu,nee,not willing to answer,fat,2032-12-22,8,no,101,99,99,00:00:00,good,no school
-275,4-5-2022 12:16:50,Other,unknown,1,mu,ja,male,I have no idea what you are talking about,2000-03-03,1,yes,50,50,7,00:30:00,sunshine,drinks
-276,4-5-2022 12:16:52,Business Analytics,yes,1,sigma,ja,male,slim,2022-07-16,0,no,0,100,30,00:30:00,Enough time for relaxing,Being productive
-277,4-5-2022 12:16:54,Other,no,0,mu,nee,male,I have no idea what you are talking about,2001-04-29,Quattro,no,Fifty,Sixty at least,548293748291457322680525896237,23:00:00,A nice calming Data Mining lecture,A cool glass of water
-278,4-5-2022 12:16:57,Computational Science,no,0,mu,nee,male,neither,2022-01-19,0,no,2,50,235236236,12:44:00,food,sleep
-279,4-5-2022 12:16:59,Computational Science,no,0,mu,nee,not willing to answer,slim,2003-02-01,2,unknown,50,0.4€,222.223,00:00:00,Lemons,Lemonade
-280,4-5-2022 12:17:03,Computational Science,no,0,mu,nee,male,neither,1996-01-11,0,yes,50,100,8,13:30:00,Good sleep,Something to achieve in the day
-281,4-5-2022 12:17:10,Computational Science,no,0,mu,nee,male,fat,2022-02-07,1,no,65,100/n (n=number of Data-Mining students),50,01:00:00,having fun,a nice meal
-282,4-5-2022 12:17:11,Business Analytics,yes,0,mu,nee,male,neither,1990-10-16,2,no,10,0,7,00:30:00,Silence,Warm weather
-283,4-5-2022 12:17:19,Artificial Intelligence,yes,0,mu,nee,male,neither,2022-09-06,0,no,30,20,73,00:00:00,Clear skies,Chill music
-284,4-5-2022 12:18:02,Business Analytics,yes,1,mu,ja,male,I have no idea what you are talking about,1998-04-29,0,no,0,98,626,02:00:00,Ether in the green,Coffee
-285,4-5-2022 12:18:28,Computer Science,no,0,mu,ja,male,fat,2022-03-28,1,no,38,30,42,00:00:00,Come up with a good question,Find a solution to the good question
-286,4-5-2022 12:19:12,Computer Science,yes,0,sigma,ja,male,neither,1999-04-09,1,no,50,100,69420,02:00:00,A good gym session,Good food
-287,4-5-2022 12:19:23,Other,yes,1,mu,ja,female,fat,1998-02-16,0,no,1,10,37,00:00:00,Good weather,Bad weather
-288,4-5-2022 12:19:33,Computational Science,no,0,mu,ja,male,neither,1998-05-23,4,no,80,101,29,02:00:00,have enough sleep,make progress in anything
-289,4-5-2022 12:19:43,Artificial Intelligence,unknown,0,mu,ja,female,fat,1995-09-20,zero,no,private matters,"I will pretend to be a communist, 100/600",9,06:00:00,"happiness comes from within, but mental stimulation is always appreciated","be healthy, having a growth mindset, mental stimulation (dopamine), exercise (endorphins), hugs (oxytocin), sunlight (serotine)"
-291,4-5-2022 12:20:49,Other,no,0,sigma,nee,male,slim,1998-07-29,1,unknown,10,100,6969,11:30:00,Sex,Sex
-292,4-5-2022 12:20:58,Other,yes,0,mu,nee,male,fat,1997-01-04,0,no,60,1000,56,00:00:00,Sunny weather,No obligations
-294,4-5-2022 12:21:16,Computer Science,yes,unknown,sigma,ja,male,fat,1996-08-22,1,no,60,More than the even share,420,01:00:00,Coffee in the morning,Hanging out with friends
-296,4-5-2022 12:28:09,Other,no,0,mu,nee,male,fat,2022-03-11,0,no,62,100,"-34,67",01:30:00,Getting work done ,Doing sports (climbing)
-297,4-5-2022 12:33:59,Other,yes,0,unknown,nee,male,neither,2022-06-22,0,no,40,0,9,01:00:00,Highly productive ,Time with friends 
-298,4-5-2022 12:34:30,Artificial Intelligence,no,0,mu,ja,female,neither,2022-04-13,0,no,50,100,75,00:00:00,Sunshine,Nice food
-299,4-5-2022 12:35:31,Artificial Intelligence,yes,1,unknown,nee,not willing to answer,fat,1956-01-01,2,no,30,99,6,00:00:00,Yes,No
-300,4-5-2022 12:37:05,Other,yes,1,mu,ja,male,slim,2022-04-09,9,yes,9,5,0,00:00:00,9,9
-301,4-5-2022 12:41:59,Computational Science,no,0,mu,nee,male,I have no idea what you are talking about,1995-07-17,0,no,666,1,123,00:00:00,Good food,Sleep more than 6 hours 
-303,4-5-2022 13:27:19,Business Analytics,yes,1,mu,ja,male,neither,1998-05-12,0,no,66,0,789458455584851844184,04:00:00,-,-
+0,4-5-2022 12:12:07,Artificial Intelligence,yes,0,mu,nee,female,neither,1998-05-02,0,no,0,5,888,2022-04-22 23:00:00,coffee,sun
+1,4-5-2022 12:12:07,Other,yes,0,mu,nee,male,fat,2000-02-29,0,yes,200,1,12,2032-04-22 00:00:00,7777,8964
+3,4-5-2022 12:12:09,Other,yes,0,unknown,nee,male,neither,1997-05-11,0,no,20,100,31,2022-04-22 14:00:00,good food,no stress
+4,4-5-2022 12:12:15,Artificial Intelligence,yes,1,mu,ja,male,fat,1997-10-03,0,no,2,100,86,2022-04-22 07:20:00,Sunshine,Good Food
+5,4-5-2022 12:12:20,Artificial Intelligence,no,unknown,sigma,unknown,female,fat,2022-04-28,0,no,48,1000,87,2130-04-22 00:00:00,This lecture,Sun
+6,4-5-2022 12:12:26,Artificial Intelligence,yes,0,unknown,nee,male,neither,1998-10-15,1,no,20,0.1,6,2022-04-22 00:35:00,sunshine,happiness
+7,4-5-2022 12:12:29,Artificial Intelligence,yes,0,unknown,ja,male,neither,2022-11-17,0,no,100,10,50,2022-04-23 00:00:00,Rainy Day,Weekend
+8,4-5-2022 12:12:29,Other,yes,0,mu,ja,male,neither,1995-04-22,0,no,20,100 / the number of people,42,2022-04-22 23:00:00,Food,Relaxation
+9,4-5-2022 12:12:29,Artificial Intelligence,no,0,mu,ja,female,fat,2000-07-21,5,yes,50,10,88,2022-04-22 12:00:00,"sun, friends and wine","relaxing, watching a show, hockey"
+11,4-5-2022 12:12:32,Business Analytics,yes,1,unknown,ja,female,fat,2022-03-05,0,no,50,0.1,56,2022-04-22 00:00:00,sun,holiday
+13,4-5-2022 12:12:36,Other,no,0,mu,nee,male,fat,1982-10-19,0,yes,65,100,8,2022-04-22 00:00:00,Good sleep,Good work
+14,4-5-2022 12:12:42,Artificial Intelligence,yes,0,mu,ja,male,fat,1999-02-22,0,yes,70,100,420,2022-04-22 12:00:00,Good mental state.,A challenge.
+15,4-5-2022 12:12:50,Other,yes,1,mu,ja,male,neither,2022-07-23,-4,unknown,over 9000,1000,42,2022-04-04 00:00:00,6,9
+17,4-5-2022 12:12:57,Artificial Intelligence,no,unknown,mu,ja,female,fat,1999-11-11,0,no,34,5,88,2022-04-22 12:55:00,Having a fun lecture,Hanging out with my friends
+18,4-5-2022 12:13:04,Artificial Intelligence,yes,0,mu,ja,male,fat,1994-04-22,1,no,70,1/n,22,2022-04-12 00:00:00,Flat white,sun
+19,4-5-2022 12:13:08,Other,yes,0,mu,nee,male,fat,1997-01-30,0,no,15,0,17,2022-04-12 00:00:00,food,tv series
+20,4-5-2022 12:13:11,Other,yes,0,mu,nee,male,I have no idea what you are talking about,1999-08-23,11,yes,60,100,0,2022-04-22 20:00:00,sun,good food
+21,4-5-2022 12:13:14,Computer Science,yes,1,unknown,ja,female,I have no idea what you are talking about,1998-07-10,3,no,1000,at least 10,12,2022-04-07 00:00:00,sun,wind:(
+22,4-5-2022 12:13:15,Artificial Intelligence,unknown,0,mu,nee,female,fat,1995-11-03,0,unknown,10,100,800039995,2022-04-22 03:00:00,Friends,Water
+26,4-5-2022 12:13:16,Computational Science,no,0,mu,ja,male,I have no idea what you are talking about,1998-09-01,1,no,56,The price of Febo kroketje,6.98,2022-04-22 23:32:00,Head,Good weather
+28,4-5-2022 12:13:19,Other,yes,0,sigma,ja,female,fat,1997-07-02,2,yes,79,55,11,2022-04-12 00:00:00,Movies,Coffee
+29,4-5-2022 12:13:24,Computational Science,no,0,mu,nee,male,I have no idea what you are talking about,1998-06-19,1,no,33,99,3.14,2022-04-23 00:00:00,Good food,Good weather
+30,4-5-2022 12:13:24,Other,yes,0,mu,nee,female,I have no idea what you are talking about,1997-08-26,2,no,80,30,32,2022-04-22 12:30:00,Sunnnn,Croissant
+31,4-5-2022 12:13:26,Artificial Intelligence,yes,0,mu,nee,female,neither,1999-04-22,1,no,10,"0,5",1278946,1990-04-22 00:00:00,alcohol,relax
+32,4-5-2022 12:13:26,Other,yes,0,mu,nee,male,I have no idea what you are talking about,1900-01-01,0,yes,100,1,651,2022-04-23 00:00:00,Datamining,Datamining2
+33,4-5-2022 12:13:29,Artificial Intelligence,no,0,sigma,nee,female,neither,2022-04-01,20,no,90,A lot,24,2022-04-05 00:00:00,food,sleep
+34,4-5-2022 12:13:34,Artificial Intelligence,no,0,sigma,ja,male,I have no idea what you are talking about,1996-05-14,5,no,70,20,2500,2022-04-05 00:00:00,Weather,Beer
+37,4-5-2022 12:13:39,Artificial Intelligence,yes,1,mu,ja,male,I have no idea what you are talking about,1996-11-02,1,no,69,1 cent,420,2022-04-01 00:00:00,Working hard,Playing volleyball
+38,4-5-2022 12:13:41,Artificial Intelligence,yes,1,mu,ja,male,fat,1998-10-02,0,no,45,200,-1,2022-04-22 01:34:00,Sunshine,Friends
+39,4-5-2022 12:13:41,Other,yes,0,mu,ja,male,fat,1998-06-09,0,no,7,0.60,1946,2022-04-22 09:00:00,Beer,Ajax
+43,4-5-2022 12:13:45,Artificial Intelligence,no,0,mu,nee,female,slim,1998-06-10,2,no,70,10 cents,765,2022-04-11 00:00:00,Seeing Friends,Nice weather
+44,4-5-2022 12:13:47,Other,yes,unknown,mu,ja,male,fat,1997-08-30,0,no,20,100,3,2022-04-22 23:30:00,Satisfaction,Spare time
+45,4-5-2022 12:13:47,Other,yes,0,mu,ja,male,neither,2022-01-01,0,no,60,100/100,81,2022-04-01 00:00:00,2,4
+46,4-5-2022 12:13:49,Computational Science,yes,0,unknown,nee,male,fat,1998-05-08,1,no,0,100,109,2022-04-22 23:00:00,sun,beach
+47,4-5-2022 12:13:50,Artificial Intelligence,yes,1,mu,ja,male,I have no idea what you are talking about,1997-04-09,0,no,20,20,4444,0200-04-22 00:00:00,sun,holiday
+50,4-5-2022 12:13:54,Computational Science,yes,0,mu,ja,female,I have no idea what you are talking about,2000-04-03,1,unknown,5,100,1,2022-04-04 00:00:00,sun,gym
+51,4-5-2022 12:13:57,Artificial Intelligence,no,0,sigma,unknown,not willing to answer,neither,1999-09-07,1,no,88,5,401,2022-04-22 01:00:00,Snacks,Good grades
+52,4-5-2022 12:13:58,Artificial Intelligence,yes,unknown,mu,ja,female,neither,1999-08-30,0,no,60,50 euros,7,2022-04-22 22:00:00,With family and loved ones,Being in good health
+53,4-5-2022 12:13:59,Business Analytics,yes,1,mu,ja,male,I have no idea what you are talking about,2000-03-15,2,no,75,20,19,2022-04-22 23:45:00,Sun,Sleep
+54,4-5-2022 12:14:00,Artificial Intelligence,yes,1,mu,ja,male,I have no idea what you are talking about,1998-06-24,2,unknown,69,100,42,2022-04-24 00:00:00,Beer,More beer
+55,4-5-2022 12:14:05,Artificial Intelligence,yes,0,mu,nee,intersex,neither,1974-02-15,45,no,34,99,1,2022-04-12 00:00:00,Cookies,I don't know 
+58,4-5-2022 12:14:06,Other,yes,0,unknown,nee,male,I have no idea what you are talking about,2022-04-04,5,no,99,100,77,2022-04-22 00:34:00,waking up early,finishing things for the day
+59,4-5-2022 12:14:10,Artificial Intelligence,yes,0,mu,ja,male,fat,1998-10-19,6,no,30,20,69,2022-04-22 13:15:00,Gym,Friends
+60,4-5-2022 12:14:11,Other,yes,1,mu,ja,male,neither,2022-07-13,1,no,50,100,69,2022-04-07 00:00:00,whole lotta bread,good wave check
+62,4-5-2022 12:14:12,Artificial Intelligence,no,0,mu,nee,gender fluid,I have no idea what you are talking about,1997-08-08,0,no,69,69,420,2022-04-02 00:00:00,420,69
+63,4-5-2022 12:14:14,Other,no,unknown,mu,ja,gender fluid,slim,2022-12-23,1,yes,34,100,280,2022-04-22 23:00:00,Having a snickers ,Food
+64,4-5-2022 12:14:14,Computational Science,no,0,mu,nee,male,I have no idea what you are talking about,1997-07-28,2,no,40,An appropriate amount,67,2022-04-22 22:30:00,Free food,Free coffee
+65,4-5-2022 12:14:15,Artificial Intelligence,yes,0,sigma,nee,male,neither,2022-12-22,0,no,1,3.50,2,2022-04-22 15:30:00,Sunshine,Chocolate Milk
+66,4-5-2022 12:14:15,Other,yes,0,unknown,nee,female,slim,1997-05-12,2,no,65,100,33,2022-04-12 00:00:00,sleep,eat
+68,4-5-2022 12:14:19,Other,no,0,sigma,nee,female,neither,2022-12-09,0,no,80,a lot,8271,2022-04-22 23:00:00,sun,not rain
+69,4-5-2022 12:14:20,Other,yes,0,mu,ja,male,fat,1999-12-07,0,no,10,I prefer not holding competitions and receiving money everone,17,2022-04-22 02:00:00,Sunshine,Good sex
+70,4-5-2022 12:14:22,Computer Science,yes,1,mu,ja,male,fat,1999-09-12,1,no,100,1000000,4,2300-04-22 00:00:00,No deadlines/exam,Good weather
+72,4-5-2022 12:14:24,Computer Science,no,0,mu,nee,male,I have no idea what you are talking about,1999-08-20,0,no,200,20,2,2022-04-12 00:00:00,Food,Sleep
+73,4-5-2022 12:14:24,Other,no,0,mu,nee,male,I have no idea what you are talking about,1997-12-06,2,yes,1E+22,12,0,2022-04-22 13:12:00,alcohol,10
+74,4-5-2022 12:14:27,Other,yes,0,mu,unknown,male,I have no idea what you are talking about,1995-07-10,2,unknown,42,30,365,2022-04-01 00:00:00,Good food and sports,Friends
+75,4-5-2022 12:14:28,Other,no,0,mu,nee,male,fat,1997-09-06,1,no,80,5,33,2022-04-04 00:00:00,being stoic,accepting change
+76,4-5-2022 12:14:29,Computational Science,no,0,mu,ja,male,fat,1997-03-03,0,no,50,10,5,2022-04-22 04:35:00,game,beautiful girl
+77,4-5-2022 12:14:29,Other,no,0,mu,nee,male,slim,2022-01-18,5,yes,100,100,41,2022-04-12 00:00:00,Kissing thomas,Alcohol 
+78,4-5-2022 12:14:30,Other,no,0,unknown,nee,female,neither,2001-04-25,3,yes,60,0,36,2022-04-12 00:00:00,Joy,More jou
+79,4-5-2022 12:14:31,Artificial Intelligence,yes,0,mu,nee,male,neither,1998-11-20,1,no,50,20,69,2022-04-22 02:00:00,Sex,Sex
+80,4-5-2022 12:14:33,Computational Science,yes,1,unknown,ja,male,slim,2022-07-23,1,yes,10,100,73,2022-04-22 12:00:00,Reading,Music
+82,4-5-2022 12:14:36,Computer Science,yes,unknown,mu,ja,male,neither,2022-04-20,3,yes,100,100,42,2022-04-22 10:45:00,No lectures ,No assignments 
+83,4-5-2022 12:14:37,Business Analytics,yes,1,mu,nee,female,fat,1996-05-19,0,no,89,2,86,2022-04-20 00:00:00,Food,Completed to-do's
+84,4-5-2022 12:14:40,Artificial Intelligence,yes,0,mu,nee,male,I have no idea what you are talking about,1896-11-02,5,unknown,1000,0,980000000000000789,2022-04-22 00:00:00,Beer,Beer
+85,4-5-2022 12:14:42,Artificial Intelligence,yes,1,mu,nee,female,neither,2001-02-13,0,no,yes.,1 million euros,432,2022-04-10 00:00:00,Frozen yoghurt,Coffee
+86,4-5-2022 12:14:43,Computer Science,no,1,mu,ja,male,fat,1999-01-24,1,no,100,100,88,2022-04-22 22:00:00,Eat food ,Sleep 
+87,4-5-2022 12:14:44,Other,yes,unknown,mu,ja,male,slim,1999-04-04,1,no,10,100,3,2022-04-24 00:00:00,Chocolate ,Sun
+88,4-5-2022 12:14:46,Computer Science,yes,0,mu,ja,male,fat,1997-01-03,3,no,0,100,42,2022-04-12 00:00:00,Passing assignments ,Passing exams
+89,4-5-2022 12:14:48,Other,yes,0,unknown,nee,female,fat,2022-10-11,3,no,80,50,100,2022-04-22 12:45:00,no homework,earn money
+90,4-5-2022 12:14:53,Other,yes,0,mu,ja,gender fluid,fat,0420-09-06,-2,yes,101,100,10.3,2022-04-22 06:00:00,Drugs ,Sex
+91,4-5-2022 12:14:57,Artificial Intelligence,yes,1,unknown,nee,female,neither,2000-05-31,2,no,60,10,14,2022-04-23 00:00:00,Sun,Day off
+92,4-5-2022 12:14:57,Other,yes,0,unknown,ja,male,fat,2022-10-11,0,no,30,500,6,2022-04-22 07:00:00,No complications,Sport
+93,4-5-2022 12:14:57,Computational Science,no,0,mu,nee,female,neither,1900-01-01,6,unknown,150,0,3645,2022-04-12 00:00:00,chocolate,more chocolate
+94,4-5-2022 12:14:59,Other,yes,0,mu,ja,male,I have no idea what you are talking about,1998-03-27,1,no,100,100000,987654321,2022-04-12 00:00:00,Playing,Studying 
+96,4-5-2022 12:15:02,Other,no,0,mu,nee,female,neither,1998-08-04,0,no,80,100,69,2022-04-22 09:00:00,Good sleep,No class
+98,4-5-2022 12:15:09,Computer Science,yes,1,mu,ja,male,neither,2022-03-13,7,no,40,100/n,69,2022-04-22 10:00:00,Food,Sleep
+99,4-5-2022 12:15:09,Other,yes,0,mu,nee,female,neither,2022-11-13,2,no,10,100,6,2022-04-22 00:45:00,food,friends
+100,4-5-2022 12:15:12,Artificial Intelligence,yes,1,mu,ja,female,I have no idea what you are talking about,1999-06-08,a couple,no,100,20,3,2022-04-22 23:00:00,coffee,pasta
+101,4-5-2022 12:15:12,Other,no,unknown,unknown,nee,male,I have no idea what you are talking about,1982-12-01,250,no,10,10,227,2022-04-06 00:00:00,Good coffee,Challeging works
+102,4-5-2022 12:15:13,Business Analytics,yes,0,sigma,ja,female,neither,2000-10-21,7,no,60,70,247,2022-04-22 23:00:00,Sun,Food
+103,4-5-2022 12:15:15,Artificial Intelligence,yes,0,mu,nee,male,fat,1998-03-11,0,no,44,24.99,57,2022-04-22 10:21:39,EDDA grades,sun
+104,4-5-2022 12:15:16,Artificial Intelligence,yes,0,mu,ja,not willing to answer,I have no idea what you are talking about,1969-04-20,1,unknown,3,0,73553801531488322931570535984775796225797789,2022-04-22 04:20:00,Surveys,Data mining
+106,4-5-2022 12:15:16,Other,no,0,mu,ja,female,fat,2022-04-04,4,no,88,100 euros,42,2022-04-12 00:00:00,delicious food,friends company
+107,4-5-2022 12:15:18,Artificial Intelligence,no,0,mu,nee,male,fat,1999-03-08,3,unknown,100,7,94736253,2022-04-22 00:55:00,Love 😓,Friends
+108,4-5-2022 12:15:18,Computer Science,yes,0,unknown,ja,not willing to answer,neither,1999-02-11,4,unknown,10,25,1947271047294720^10204847,2022-04-22 23:30:00,Xtc,Money
+109,4-5-2022 12:15:20,Computer Science,yes,1,mu,ja,male,slim,1995-10-13,2,no,50,50,13,2022-04-12 00:00:00,Kafeneion Amsterdam ,More Kafeneion Amsterdam 
+111,4-5-2022 12:15:25,Artificial Intelligence,yes,1,mu,ja,female,fat,1998-11-22,1,no,5,2,56,0100-04-22 00:00:00,Sunshine,Free time
+112,4-5-2022 12:15:25,Computer Science,yes,1,mu,ja,female,fat,2022-05-26,1,no,5,10,7,2022-04-22 23:30:00,a nice dinner,the sun
+113,4-5-2022 12:15:27,Computer Science,yes,0,sigma,ja,male,neither,1998-04-07,300,no,10,1000,7,2022-04-22 01:30:00,Fun people,Beer
+114,4-5-2022 12:15:29,Other,yes,0,mu,ja,male,fat,1997-09-04,1,no,0,20,25,2022-04-22 21:20:00,food,sleep
+115,4-5-2022 12:15:30,Artificial Intelligence,no,0,mu,ja,female,neither,1996-10-20,3,no,40,10eur,567,2022-04-22 02:00:00,Flow state,Good food
+116,4-5-2022 12:15:32,Other,yes,unknown,mu,ja,female,fat,1999-04-22,1,no,40,50,58,2045-04-22 00:00:00,1,1
+117,4-5-2022 12:15:37,Artificial Intelligence,yes,0,mu,ja,female,fat,1998-01-01,1,no,0,50,23,2022-04-22 03:00:00,food,being with the people i love
+118,4-5-2022 12:15:38,Artificial Intelligence,yes,0,mu,ja,female,slim,1999-03-25,2,no,3,66,43,2022-04-22 23:30:00,Coffee,Food
+119,4-5-2022 12:15:41,Computational Science,no,0,mu,nee,male,fat,1998-05-08,0,no,69,"69,69",69,2022-04-22 01:30:00,Sun,Wine
+121,4-5-2022 12:15:41,Artificial Intelligence,yes,0,mu,ja,male,fat,2022-02-09,0,no,1,10,73,2022-04-22 02:20:00,Sun,Weekend
+122,4-5-2022 12:15:42,Computational Science,unknown,unknown,unknown,unknown,female,neither,2000-01-01,5,no,10,69,9,2022-04-01 00:00:00,sun,friends
+123,4-5-2022 12:15:42,Artificial Intelligence,yes,0,mu,ja,female,fat,1998-08-08,0,no,14,5,8,2022-04-22 23:00:00,Party,Tennis
+124,4-5-2022 12:15:43,Other,no,1,mu,nee,male,I have no idea what you are talking about,1995-11-11,7,yes,10,10,21,2022-04-22 23:40:00,VIKINGS!,My house not burning down :)
+125,4-5-2022 12:15:43,Artificial Intelligence,no,1,mu,nee,male,slim,1998-09-26,0,no,69,99,42,2022-04-22 05:00:00,sleep,deliocious food
+126,4-5-2022 12:15:44,Artificial Intelligence,no,0,mu,ja,male,fat,1991-04-29,5,no,40,1,5813,2022-04-22 01:00:00,Beers,Movies
+128,4-5-2022 12:15:44,Artificial Intelligence,yes,unknown,mu,ja,male,I have no idea what you are talking about,1997-12-18,1,no,30,30,36,2022-04-20 00:00:00,Food football and sleep,Gym study and drinks
+129,4-5-2022 12:15:44,Artificial Intelligence,yes,1,mu,ja,female,neither,1997-07-08,1,yes,60,100,42,2022-04-01 00:00:00,Traveling with friends ,Eating with family 
+130,4-5-2022 12:15:44,Computer Science,no,0,mu,nee,male,neither,2000-04-12,1,no,60,0.10,88,2022-04-22 23:00:00,Nice weather,Good food
+131,4-5-2022 12:15:45,Artificial Intelligence,yes,1,mu,nee,male,I have no idea what you are talking about,2000-04-22,8,no,50,0.16,9,2022-04-22 23:00:00,Coffee,Friends
+132,4-5-2022 12:15:45,Computational Science,no,0,mu,ja,male,I have no idea what you are talking about,2022-11-27,0,no,40,What?,4,2022-04-22 02:30:00,Lack of stress,Feeling productive
+133,4-5-2022 12:15:45,Artificial Intelligence,yes,0,sigma,ja,female,fat,1997-02-24,0,no,30,IDK,47,2022-04-22 11:30:00,SUNSHINE 😭,Laughter 
+134,4-5-2022 12:15:45,Other,yes,0,mu,ja,male,neither,1996-04-26,0,no,20,10,76853,2022-04-22 22:00:00,Sun,Spring
+135,4-5-2022 12:15:45,Other,yes,unknown,mu,nee,male,fat,1900-01-01,1,no,75,0.15,"7,66789E+13",2022-04-22 11:45:00,Pizza,WFH
+136,4-5-2022 12:15:45,Other,yes,0,mu,nee,male,slim,2022-09-01,0,no,yes,1,8,2022-04-22 00:40:00,Sushi,Anime
+137,4-5-2022 12:15:46,Artificial Intelligence,yes,0,mu,ja,female,neither,1998-08-17,0,yes,68,23,83,2022-04-22 00:15:00,friends,sun
+138,4-5-2022 12:15:46,Business Analytics,yes,1,mu,ja,female,slim,1999-07-22,4,no,22,100,12,2022-04-22 07:00:00,Food,A smile
+139,4-5-2022 12:15:46,Artificial Intelligence,no,0,mu,nee,female,fat,1997-10-30,0,no,70,7,3,2022-04-22 00:07:00,sun,sex
+140,4-5-2022 12:15:47,Artificial Intelligence,yes,0,mu,nee,female,fat,1997-04-25,1,no,30,10,60,2022-04-22 23:00:00,food,love
+142,4-5-2022 12:15:47,Other,yes,0,mu,unknown,female,neither,1998-02-16,0,no,47,7,83,2022-04-22 04:00:00,good food,sun
+143,4-5-2022 12:15:48,Other,no,0,mu,nee,male,I have no idea what you are talking about,1996-04-02,4,no,45,50,10,2022-04-22 01:53:00,Sun ,Rain
+144,4-5-2022 12:15:48,Artificial Intelligence,no,0,mu,nee,male,fat,1996-03-18,0,no,75,1,4,2022-04-22 00:00:00,Sports,Meditation
+145,4-5-2022 12:15:48,Computer Science,no,0,sigma,ja,male,fat,1996-05-22,1,no,10,35,7,2022-04-22 01:00:00,Good food,Good sex
+146,4-5-2022 12:15:48,Other,yes,0,mu,nee,male,neither,2022-06-23,0,no,80,0.16,1,2022-04-01 00:00:00,8 hours of sleep ,no stress about uni
+147,4-5-2022 12:15:48,Business Analytics,yes,0,mu,ja,female,fat,1999-10-11,0,no,40,5,8,2022-04-22 00:00:00,Hours of sleep,Good food
+148,4-5-2022 12:15:49,Computational Science,yes,unknown,mu,ja,not willing to answer,neither,2022-12-22,2,no,80,100/#people taking the course,4.34,2022-04-22 03:00:00,Spending time with friends,Free time 
+149,4-5-2022 12:15:49,Computer Science,yes,1,mu,ja,male,I have no idea what you are talking about,2022-10-31,Zero,no,10,5,69,2022-04-22 01:00:00,Friends,Food
+150,4-5-2022 12:15:49,Other,yes,unknown,mu,unknown,female,fat,1998-04-05,0,no,50,1,68,2022-04-22 23:15:00,Sunshine,Free time
+151,4-5-2022 12:15:49,Other,yes,0,mu,nee,male,fat,1996-11-23,0,no,33,88,8,2022-04-22 01:00:00,good food,feyenoord winning
+153,4-5-2022 12:15:49,Artificial Intelligence,yes,unknown,mu,nee,male,fat,1997-10-19,1,yes,30,1000,42,2022-04-22 01:00:00,coding,food
+154,4-5-2022 12:15:50,Other,yes,1,mu,nee,female,I have no idea what you are talking about,2022-06-23,0,no,34,"0,00006",651893,2022-04-22 00:15:00,Sleep,More Sleep
+155,4-5-2022 12:15:50,Business Analytics,yes,1,mu,ja,female,fat,2022-11-29,1,no,20,1,9462648,2022-04-22 23:00:00,Sun,Friends
+156,4-5-2022 12:15:50,Artificial Intelligence,yes,unknown,mu,ja,male,slim,2022-09-01,5,no,60,5,68,2022-04-22 23:00:00,Free,Warmth
+157,4-5-2022 12:15:50,Artificial Intelligence,no,0,mu,nee,male,I have no idea what you are talking about,1998-04-18,2,no,70,0,4,2022-04-04 00:00:00,food,sleep
+158,4-5-2022 12:15:51,Artificial Intelligence,yes,1,mu,ja,male,I have no idea what you are talking about,2022-12-20,1,unknown,20,5,521,2022-04-23 00:00:00,Laughter,Friends
+159,4-5-2022 12:15:51,Artificial Intelligence,no,0,mu,nee,male,fat,1996-11-12,0,no,75,5,77,2022-04-22 23:00:00,Sunny,Vacation
+160,4-5-2022 12:15:51,Artificial Intelligence,no,1,mu,ja,male,fat,2022-06-19,1,no,20,At least half 😎,69,2022-04-22 00:00:00,Productive,good times with friends and family
+161,4-5-2022 12:15:51,Other,no,0,mu,nee,male,neither,1999-04-19,1,yes,15,0,9664367943217790643378,2022-04-23 00:00:00,Sex,Sports
+162,4-5-2022 12:15:52,Other,no,0,mu,nee,female,neither,2022-06-05,0,no,100,1,3,2022-04-22 03:00:00,feeling content,not too much stress
+163,4-5-2022 12:15:52,Other,no,0,mu,ja,male,I have no idea what you are talking about,1995-04-21,0,no,0,"0,16",2230,2230-04-22 00:00:00,Sports,Drinking
+164,4-5-2022 12:15:52,Computational Science,no,0,sigma,nee,male,neither,2022-11-11,0,yes,20,100,13,2022-04-22 01:00:00,A nice deep sleep,working out in the gym
+165,4-5-2022 12:15:52,Computer Science,no,0,mu,ja,male,neither,1998-10-16,0,no,80,20,420,2022-04-22 06:00:00,good sleep,good dinner
+166,4-5-2022 12:15:53,Artificial Intelligence,yes,0,mu,ja,female,I have no idea what you are talking about,1994-07-16,6,yes,36,6,163,2022-04-22 21:43:00,Good food,Sunshine
+167,4-5-2022 12:15:53,Other,yes,0,mu,nee,male,fat,1999-10-08,5,no,50,0.50,3,2022-04-22 23:45:00,Get up early,Don’t drink day before
+168,4-5-2022 12:15:53,Other,yes,0,sigma,nee,male,fat,1999-04-14,0,no,40,0,e,2022-04-22 01:00:00,Sun,Food
+169,4-5-2022 12:15:53,Business Analytics,yes,1,mu,ja,female,fat,1999-02-18,0,no,60,1,18,2022-04-23 00:00:00,Friends,Nice weather
+170,4-5-2022 12:15:54,Business Analytics,yes,unknown,mu,ja,female,fat,1998-07-13,0,no,12,1,2,2022-04-22 00:12:00,Friends,Party
+171,4-5-2022 12:15:54,Other,no,0,mu,nee,female,neither,1998-10-22,2,no,60,10,4,2022-04-22 23:00:00,Stresslevel,Social interaction
+172,4-5-2022 12:15:55,Artificial Intelligence,no,0,mu,nee,female,neither,2022-04-15,1,no,70,2,33,2022-04-22 23:00:00,A lot of sleep,Time to read 
+173,4-5-2022 12:15:55,Other,yes,0,mu,nee,female,neither,1998-10-12,5,unknown,70,5,5,2022-04-22 02:00:00,Sun,good meal
+174,4-5-2022 12:15:56,Other,no,0,sigma,nee,male,neither,2022-08-03,1,no,75,60,3,2022-04-22 12:00:00,Sunny,Beer
+175,4-5-2022 12:15:56,Artificial Intelligence,yes,1,mu,ja,female,fat,1999-06-18,2,no,60,25,6,2022-04-22 23:00:00,exercise,good food
+177,4-5-2022 12:15:56,Artificial Intelligence,unknown,0,unknown,ja,male,neither,1999-12-31,0,no,100,1,24,2022-04-22 02:00:00,Chocolate,Freedom
+178,4-5-2022 12:15:56,Business Analytics,yes,1,mu,ja,female,I have no idea what you are talking about,1997-04-27,0,no,20,0.16 ,37,2022-04-22 00:00:00,Food,Friends
+180,4-5-2022 12:15:57,Artificial Intelligence,yes,0,mu,ja,not willing to answer,I have no idea what you are talking about,1900-11-11,2,yes,69,100,56799,2022-04-22 00:00:00,Beer,Sunday funday
+181,4-5-2022 12:15:57,Other,no,0,mu,nee,male,I have no idea what you are talking about,1996-12-12,0,no,85,10 euros,6,2022-04-22 22:00:00,weather,no work
+182,4-5-2022 12:15:57,Other,yes,unknown,mu,ja,female,neither,1996-06-03,0,unknown,0,1,9,2022-04-22 22:00:00,Food,Sleep
+183,4-5-2022 12:15:57,Business Analytics,yes,0,mu,nee,female,neither,1998-01-27,0,no,50,"0,16",8,2022-04-22 23:28:00,Good night of sleep,Low stress level
+184,4-5-2022 12:15:58,Artificial Intelligence,yes,0,mu,ja,female,I have no idea what you are talking about,1999-02-26,1,no,55,50,55,2022-04-22 05:30:00,SUN,drinks with friends
+185,4-5-2022 12:15:58,Computer Science,no,0,mu,ja,male,neither,1102-04-22,7,no,23,100,77,2022-04-12 00:00:00,Successful debugging,Seeing my girlfriend 
+186,4-5-2022 12:15:58,Computer Science,no,1,sigma,ja,male,neither,1996-04-22,3,no,40,100,66,2022-04-02 00:00:00,Good Sleep,Diet on point
+187,4-5-2022 12:15:59,Artificial Intelligence,yes,0,mu,nee,male,I have no idea what you are talking about,1996-10-01,3,no,70,100,54.727.163.638.182.600.000.000.000.000.000.000.000,2022-04-22 23:00:00,Being with friends,Eating good food
+188,4-5-2022 12:15:59,Other,yes,1,sigma,ja,male,I have no idea what you are talking about,2022-05-04,>600,yes,7.5,0.1,987654321,2022-04-22 22:30:00,Chocolate,Sun
+189,4-5-2022 12:15:59,Other,yes,0,mu,ja,female,neither,1999-07-15,0,no,70,10,8,2022-04-22 22:30:00,Sports,Activity
+190,4-5-2022 12:15:59,Business Analytics,yes,0,mu,nee,male,neither,2022-08-18,4,no,11,6 cents,96274374,2022-04-22 20:00:00,A dm lecture,A dm QA
+191,4-5-2022 12:15:59,Other,yes,0,mu,nee,male,neither,1995-03-19,0,no,70,equal,78945,2022-04-22 02:00:00,coffee in the morning,beer in the evening
+192,4-5-2022 12:15:59,Other,yes,0,sigma,nee,male,fat,2022-03-29,4,yes,100,100,7,2022-04-02 00:00:00,3,2
+193,4-5-2022 12:16:00,Artificial Intelligence,unknown,1,mu,nee,male,I have no idea what you are talking about,1996-08-24,0,yes,11,1/n,42,2022-04-22 22:09:00,I don't know,I really don't know
+194,4-5-2022 12:16:00,Computational Science,yes,0,mu,ja,male,I have no idea what you are talking about,1997-06-21,0,no,1,10,7654321,2022-04-22 00:30:00,Applying data mining techniques,Netflix with girlfriend
+195,4-5-2022 12:16:00,Computer Science,yes,0,mu,ja,male,fat,1999-07-02,1,no,80,20,7,2022-04-22 00:00:00,no class,no homework
+196,4-5-2022 12:16:00,Business Analytics,yes,unknown,mu,nee,female,slim,2022-04-28,0,no,60,100,7,2022-04-22 23:00:00,no stress from school,go to restaurant
+197,4-5-2022 12:16:00,Computer Science,yes,1,mu,ja,female,neither,1994-10-12,2,no,80,99,8,2022-04-01 00:00:00,my cat purs on me,seeing sun in Netherlands
+198,4-5-2022 12:16:01,Computational Science,no,0,mu,nee,male,I have no idea what you are talking about,1998-08-27,0,no,30,1,80,2022-04-22 00:00:00,Nice weather,Social interaction 
+199,4-5-2022 12:16:01,Other,yes,0,unknown,ja,female,fat,1997-06-17,0,no,59,60,100,2022-04-22 02:00:00,Sunshine,Plan
+200,4-5-2022 12:16:01,Business Analytics,yes,0,mu,ja,male,neither,1111-01-01,0,no,2,12,4,2022-04-22 23:00:00,Sun,BBQ
+201,4-5-2022 12:16:01,Artificial Intelligence,no,0,mu,nee,female,fat,2022-04-01,2,no,60,10,7,2022-04-22 23:50:00,no lecture,no home assignment
+202,4-5-2022 12:16:01,Other,yes,1,sigma,nee,male,fat,1998-11-12,0,no,25,500,198956654894562566469615,2022-04-22 00:25:00,Good food,Winning the lottery
+203,4-5-2022 12:16:02,Computational Science,no,1,mu,ja,female,neither,2004-03-12,8,no,23,40,9,2022-04-22 22:00:00,time for myself,bouldering
+204,4-5-2022 12:16:02,Artificial Intelligence,no,0,mu,ja,female,I have no idea what you are talking about,2022-12-16,0,no,40,1,5792,2022-04-22 23:40:00,socializing,productivity
+206,4-5-2022 12:16:02,Artificial Intelligence,no,0,mu,ja,female,neither,1997-01-13,2,no,40,30,5,2022-04-12 00:00:00,Friends,Happy moments
+208,4-5-2022 12:16:02,Other,yes,unknown,mu,nee,male,fat,2022-08-09,0,no,20,If I win the the competition I feel like I deserve the total amount. Otherwise 1/the group,172,0100-04-22 00:00:00,blue sky with a shiny sun,Knowing i have a spare day
+209,4-5-2022 12:16:03,Artificial Intelligence,no,0,unknown,ja,male,neither,1998-12-08,1,yes,37,3,8,2022-04-02 00:00:00,Sun and park,Sun and chill
+210,4-5-2022 12:16:03,Artificial Intelligence,no,0,mu,nee,female,neither,1995-12-21,4,no,1,0,21,2022-04-23 00:00:00,sunshine ,fun stuff on the planning
+212,4-5-2022 12:16:03,Other,yes,0,sigma,nee,male,fat,2000-10-17,5,no,12,0.5,11223344556677889900,2022-04-22 02:34:00,No obligations,Games
+213,4-5-2022 12:16:03,Artificial Intelligence,no,0,mu,nee,female,I have no idea what you are talking about,1991-07-12,1,no,80,1,6,2022-04-01 00:00:00,SUN,fun
+214,4-5-2022 12:16:05,Artificial Intelligence,no,0,mu,nee,female,neither,1997-12-12,0,unknown,50,2,88,2022-04-03 00:00:00,Sunny weather,Feeling in tune with yourself and your surroundings
+215,4-5-2022 12:16:05,Computer Science,no,0,mu,nee,male,slim,1999-08-13,1,no,50,1,13,2022-04-22 01:30:00,warm weather,not having to get up early
+216,4-5-2022 12:16:05,Artificial Intelligence,no,0,mu,nee,male,fat,1997-04-22,0,no,15,5,5,2022-04-22 01:00:00,no work,good food
+217,4-5-2022 12:16:06,Computational Science,no,0,mu,nee,female,neither,1997-11-07,4,no,29,50,29,2022-04-15 00:00:00,Coffee,My bed
+218,4-5-2022 12:16:06,Other,no,0,mu,ja,male,I have no idea what you are talking about,1991-01-01,8,no,80,20,8,2022-04-22 23:00:00,Sun,Food
+219,4-5-2022 12:16:06,Artificial Intelligence,no,0,mu,ja,female,neither,1999-06-18,0,no,72,100/624=0.16,361,2022-04-22 23:00:00,Some love from friends/fam/bf,good food
+220,4-5-2022 12:16:06,Business Analytics,yes,0,mu,nee,male,I have no idea what you are talking about,1998-02-05,0,no,70,1,5,2022-04-02 00:00:00,good weather,eating
+221,4-5-2022 12:16:06,Other,yes,0,mu,ja,male,neither,1999-03-09,2,no,69,"4,2",4729264827364547292736464629,2022-04-22 02:00:00,Andrea,DMT
+224,4-5-2022 12:16:06,Business Analytics,yes,1,mu,ja,female,neither,1998-10-01,0,no,40,20,2,2022-04-22 00:37:00,sun,meeting friends
+225,4-5-2022 12:16:06,Business Analytics,yes,0,mu,nee,female,fat,2022-05-20,0,no,45,30,12,2022-04-10 00:00:00,sport,call my mother
+226,4-5-2022 12:16:08,Artificial Intelligence,no,0,mu,ja,male,fat,2000-07-18,1,no,5,30,4,2022-04-22 23:45:00,Not rain ,Food
+227,4-5-2022 12:16:08,Artificial Intelligence,yes,1,mu,ja,male,fat,1994-05-01,0,no,10,125,13,2022-04-22 23:30:00,Sun,Feeling good
+228,4-5-2022 12:16:08,Artificial Intelligence,no,unknown,mu,ja,male,I have no idea what you are talking about,1993-07-15,0,no,33,33,sqrt(687458.9665),2022-04-10 00:00:00,sleeping long,smoke weed
+229,4-5-2022 12:16:09,Other,yes,0,unknown,nee,male,fat,1999-04-13,0,no,30,0.20,11,2022-04-22 00:30:00,Good weather,Going to the gym
+230,4-5-2022 12:16:09,Other,yes,0,mu,ja,male,fat,2022-04-24,0,yes,50,10,122,2022-04-22 02:00:00,Sunshine,Good food
+231,4-5-2022 12:16:09,Computational Science,no,0,mu,ja,male,neither,2022-07-14,0,no,10,2,37,2022-04-22 23:30:00,nice weather,free money
+232,4-5-2022 12:16:09,Artificial Intelligence,yes,1,mu,nee,male,I have no idea what you are talking about,1998-06-05,0,no,70,50,7,2022-04-03 00:00:00,good weather,good food
+233,4-5-2022 12:16:09,Other,yes,0,unknown,nee,male,fat,1995-01-20,4,no,30,"0,2",5,2022-04-22 23:00:00,Doing nothing important,Talking with friends
+235,4-5-2022 12:16:10,Artificial Intelligence,yes,1,mu,ja,female,neither,2000-01-01,0,no,81,13,4,2022-04-22 03:00:00,No lectures,Sunny weather
+236,4-5-2022 12:16:10,Computer Science,yes,0,sigma,ja,male,unknown,2022-11-04,0,unknown,10,0,"6,96788E+14",2022-04-22 17:00:00,sunlight,No wind
+237,4-5-2022 12:16:10,Artificial Intelligence,yes,0,mu,ja,female,slim,1996-08-21,0,yes,-100,0.1,∞,2022-04-22 02:00:00,Coffee,Sleep
+238,4-5-2022 12:16:11,Other,yes,1,mu,ja,male,neither,2022-12-10,0,no,0,5,10,2022-04-22 22:22:00,Sun,Fun
+239,4-5-2022 12:16:11,Computational Science,yes,0,sigma,nee,male,fat,1995-08-01,2,yes,19,100,27,2022-04-12 00:00:00,sun,sport
+240,4-5-2022 12:16:11,Business Analytics,yes,0,mu,nee,male,neither,1997-12-08,5,no,50,0.25€,8,2022-04-22 01:00:00,Good food,Nice whether 
+241,4-5-2022 12:16:11,Artificial Intelligence,yes,1,mu,ja,male,fat,1999-06-14,1,no,10,0.16,6,2022-04-22 00:15:00,Sunny weather,Exercise
+242,4-5-2022 12:16:11,Artificial Intelligence,yes,1,sigma,ja,male,neither,1992-12-18,0,no,100,1000000,69,2022-04-22 00:00:00,thuisbezorgd,gaming
+243,4-5-2022 12:16:11,Other,no,0,mu,unknown,male,slim,1997-11-14,2,no,80,30,333,2022-04-22 01:00:00,Lots of food,Going out in a sunny day
+244,4-5-2022 12:16:11,Computer Science,yes,1,mu,ja,male,fat,1998-04-23,2,no,80,Definately,10,2022-04-22 22:00:00,Win lottery,Win lottery again
+247,4-5-2022 12:16:14,Other,no,0,mu,nee,male,I have no idea what you are talking about,2022-06-07,8,no,69,100 euros divided over 600 students. 0.6 euros,6665437996,2022-04-22 23:56:00,Cake,Cookies
+248,4-5-2022 12:16:15,Artificial Intelligence,no,0,mu,nee,male,slim,2022-04-11,Im in the web,yes,80,5 euro to buy previously mentioned chocolate,6,2022-04-22 01:00:00,Workout, progress in the course
+250,4-5-2022 12:16:18,Artificial Intelligence,yes,0,mu,nee,male,neither,1989-02-09,4,no,80,70,9,2022-04-22 09:00:00,food,sleep
+251,4-5-2022 12:16:19,Other,yes,1,mu,ja,male,neither,1998-08-16,0,no,25,0.25 cents,42,2022-04-22 00:15:00,Being productive,Listening/making music
+253,4-5-2022 12:16:19,Computational Science,no,0,mu,ja,male,neither,2022-12-20,1,yes,12,110,10,2022-04-22 01:30:00,Beer,Sleep
+254,4-5-2022 12:16:19,Artificial Intelligence,yes,0,mu,nee,male,fat,2022-05-31,2,no,30,1 euro,5,2022-04-22 01:00:00,Nice dinner,Netflix
+256,4-5-2022 12:16:20,Other,yes,0,mu,ja,female,neither,1999-08-03,1,no,25,5,8,2022-04-22 23:30:00,Friends,Drinks
+257,4-5-2022 12:16:20,Artificial Intelligence,yes,0,mu,ja,female,slim,2022-07-02,2,yes,30,8,32,2022-04-22 03:00:00,Winkel apple pie,Friends
+258,4-5-2022 12:16:20,Computer Science,no,1,mu,ja,male,neither,2022-10-27,3,no,75,40,6,2022-04-07 00:00:00,Wake up late,breakfast
+259,4-5-2022 12:16:22,Computational Science,no,1,mu,nee,female,I have no idea what you are talking about,1996-04-24,6,unknown,70,yo,56,2022-04-23 00:00:00,smiles,more smiles
+260,4-5-2022 12:16:22,Artificial Intelligence,no,0,mu,nee,female,I have no idea what you are talking about,1998-05-29,8,unknown,30,50,8,2022-04-11 00:00:00,Smile,Laugh
+261,4-5-2022 12:16:23,Artificial Intelligence,no,0,mu,nee,female,fat,1996-02-17,12,no,99,50,9,2022-04-04 00:00:00,Having coffee,breakfast
+262,4-5-2022 12:16:24,Computational Science,no,0,mu,nee,female,neither,2222-02-22,3,unknown,30,50,7,2022-04-22 00:30:00,Cat,Food
+263,4-5-2022 12:16:26,Other,yes,0,mu,nee,female,neither,1998-02-25,1,yes,15,85,42,2022-04-22 02:00:00,Sunshine,Good food
+264,4-5-2022 12:16:27,Computational Science,no,0,mu,ja,female,neither,1996-06-02,0,no,70,75,53,2022-04-22 23:00:00,insightful things,not thinking about tomorrow 
+265,4-5-2022 12:16:28,Artificial Intelligence,no,0,mu,ja,male,neither,1998-06-15,0,no,66,5,487,2022-04-22 03:00:00,A good sleep,Staying with my best friends
+266,4-5-2022 12:16:29,Other,no,0,mu,ja,male,neither,1999-08-18,5,no,10,2.5,8,2022-04-22 01:30:00,Friends,Drinks
+267,4-5-2022 12:16:29,Artificial Intelligence,yes,0,mu,nee,female,fat,2001-05-12,0,unknown,87,i don't understand,42,2022-04-22 01:45:00,breakfast,going outside
+268,4-5-2022 12:16:29,Other,no,0,mu,ja,male,I have no idea what you are talking about,1997-11-10,1,no,50,100,11,2022-04-09 00:00:00,Time with family and friends ,Good news 
+269,4-5-2022 12:16:35,Other,no,1,mu,ja,male,I have no idea what you are talking about,2022-05-22,0,no,45.8,100,47895734,2022-04-23 00:00:00,Food,Food
+270,4-5-2022 12:16:35,Artificial Intelligence,no,0,mu,ja,female,neither,2022-11-29,5,no,10,15,2,2022-04-22 23:00:00,Sunny,Meet friends
+271,4-5-2022 12:16:35,Artificial Intelligence,no,0,mu,nee,male,neither,1982-02-14,2,no,70,75,666,2022-04-22 23:50:00,"Good sleep, good sport",Good study
+272,4-5-2022 12:16:39,Artificial Intelligence,no,0,sigma,nee,not willing to answer,I have no idea what you are talking about,2000-02-03,0,no,100,I don't understand the question,893,2022-04-22 00:15:00,do my thing and gym,lover's kiss
+273,4-5-2022 12:16:49,Computer Science,no,0,sigma,nee,female,I have no idea what you are talking about,1997-06-11,2,no,70,100,11,2022-04-22 00:00:00,A warm sunny day with no stress,I answered it already
+274,4-5-2022 12:16:50,Other,yes,0,mu,nee,not willing to answer,fat,2032-12-22,8,no,101,99,99,2022-04-03 00:00:00,good,no school
+275,4-5-2022 12:16:50,Other,unknown,1,mu,ja,male,I have no idea what you are talking about,2000-03-03,1,yes,50,50,7,2022-04-22 00:30:00,sunshine,drinks
+276,4-5-2022 12:16:52,Business Analytics,yes,1,sigma,ja,male,slim,2022-07-16,0,no,0,100,30,2022-04-22 00:30:00,Enough time for relaxing,Being productive
+277,4-5-2022 12:16:54,Other,no,0,mu,nee,male,I have no idea what you are talking about,2001-04-29,Quattro,no,Fifty,Sixty at least,548293748291457322680525896237,2022-04-22 23:00:00,A nice calming Data Mining lecture,A cool glass of water
+278,4-5-2022 12:16:57,Computational Science,no,0,mu,nee,male,neither,2022-01-19,0,no,2,50,235236236,2022-04-22 12:44:00,food,sleep
+279,4-5-2022 12:16:59,Computational Science,no,0,mu,nee,not willing to answer,slim,2003-02-01,2,unknown,50,0.4€,222.223,2022-04-03 00:00:00,Lemons,Lemonade
+280,4-5-2022 12:17:03,Computational Science,no,0,mu,nee,male,neither,1996-01-11,0,yes,50,100,8,2022-04-22 13:30:00,Good sleep,Something to achieve in the day
+281,4-5-2022 12:17:10,Computational Science,no,0,mu,nee,male,fat,2022-02-07,1,no,65,100/n (n=number of Data-Mining students),50,2022-04-22 01:00:00,having fun,a nice meal
+282,4-5-2022 12:17:11,Business Analytics,yes,0,mu,nee,male,neither,1990-10-16,2,no,10,0,7,2022-04-22 00:30:00,Silence,Warm weather
+283,4-5-2022 12:17:19,Artificial Intelligence,yes,0,mu,nee,male,neither,2022-09-06,0,no,30,20,73,2350-04-22 00:00:00,Clear skies,Chill music
+284,4-5-2022 12:18:02,Business Analytics,yes,1,mu,ja,male,I have no idea what you are talking about,1998-04-29,0,no,0,98,626,2022-04-22 02:00:00,Ether in the green,Coffee
+285,4-5-2022 12:18:28,Computer Science,no,0,mu,ja,male,fat,2022-03-28,1,no,38,30,42,2300-04-22 00:00:00,Come up with a good question,Find a solution to the good question
+286,4-5-2022 12:19:12,Computer Science,yes,0,sigma,ja,male,neither,1999-04-09,1,no,50,100,69420,2022-04-22 02:00:00,A good gym session,Good food
+287,4-5-2022 12:19:23,Other,yes,1,mu,ja,female,fat,1998-02-16,0,no,1,10,37,2022-04-02 00:00:00,Good weather,Bad weather
+288,4-5-2022 12:19:33,Computational Science,no,0,mu,ja,male,neither,1998-05-23,4,no,80,101,29,2022-04-22 02:00:00,have enough sleep,make progress in anything
+289,4-5-2022 12:19:43,Artificial Intelligence,unknown,0,mu,ja,female,fat,1995-09-20,zero,no,private matters,"I will pretend to be a communist, 100/600",9,2022-04-22 06:00:00,"happiness comes from within, but mental stimulation is always appreciated","be healthy, having a growth mindset, mental stimulation (dopamine), exercise (endorphins), hugs (oxytocin), sunlight (serotine)"
+291,4-5-2022 12:20:49,Other,no,0,sigma,nee,male,slim,1998-07-29,1,unknown,10,100,6969,2022-04-22 11:30:00,Sex,Sex
+292,4-5-2022 12:20:58,Other,yes,0,mu,nee,male,fat,1997-01-04,0,no,60,1000,56,2022-04-22 00:00:00,Sunny weather,No obligations
+294,4-5-2022 12:21:16,Computer Science,yes,unknown,sigma,ja,male,fat,1996-08-22,1,no,60,More than the even share,420,2022-04-22 01:00:00,Coffee in the morning,Hanging out with friends
+296,4-5-2022 12:28:09,Other,no,0,mu,nee,male,fat,2022-03-11,0,no,62,100,"-34,67",2022-04-22 01:30:00,Getting work done ,Doing sports (climbing)
+297,4-5-2022 12:33:59,Other,yes,0,unknown,nee,male,neither,2022-06-22,0,no,40,0,9,2022-04-22 01:00:00,Highly productive ,Time with friends 
+298,4-5-2022 12:34:30,Artificial Intelligence,no,0,mu,ja,female,neither,2022-04-13,0,no,50,100,75,2022-04-02 00:00:00,Sunshine,Nice food
+299,4-5-2022 12:35:31,Artificial Intelligence,yes,1,unknown,nee,not willing to answer,fat,1956-01-01,2,no,30,99,6,2022-04-05 00:00:00,Yes,No
+300,4-5-2022 12:37:05,Other,yes,1,mu,ja,male,slim,2022-04-09,9,yes,9,5,0,2022-04-09 00:00:00,9,9
+301,4-5-2022 12:41:59,Computational Science,no,0,mu,nee,male,I have no idea what you are talking about,1995-07-17,0,no,666,1,123,0555-04-22 00:00:00,Good food,Sleep more than 6 hours 
+303,4-5-2022 13:27:19,Business Analytics,yes,1,mu,ja,male,neither,1998-05-12,0,no,66,0,789458455584851844184,2022-04-22 04:00:00,-,-
