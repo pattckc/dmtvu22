@@ -15,6 +15,7 @@ from sklearn.metrics import roc_auc_score, accuracy_score
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from scipy.stats import pearsonr
+from scipy.stats import spearmanr
 tzinfos = gettz('Europe / Berlin')
 
 df = pd.read_csv('Code\Data\ODI-2022.csv', header = 0, sep = ';')
@@ -67,7 +68,7 @@ def myparser(x):
        return parse(x, tzinfos = tzinfos, dayfirst = True, fuzzy = True)
     except:
        return None
-df.iloc[:, 8]=df.iloc[:, 8].apply(lambda x: myparser(x))
+#df.iloc[:, 8]=df.iloc[:, 8].apply(lambda x: myparser(x))
 df.iloc[:, 14]=df.iloc[:, 14].apply(lambda x: myparser(x))
 """def extractdate():
     try:
@@ -81,7 +82,7 @@ df.iloc[:, 14]=df.iloc[:, 14].apply(lambda x: myparser(x))
 df.dropna(axis = 0, how = 'any', inplace = True)
 
 #turn datetime to date
-df.iloc[:, 8]=df.iloc[:, 8].apply(lambda x: datetime.date(x))
+#df.iloc[:, 8]=df.iloc[:, 8].apply(lambda x: datetime.date(x))
 
 #turn datetime to time    
 #df.iloc[:, 14]=df.iloc[:, 14].apply(lambda x: datetime.time(x))
@@ -117,14 +118,14 @@ df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"MSc. Artificial Intelligence 
 
 # REPLACE ALL Computer Science
 df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"CS", "Computer Science ", "computer science", "Computer science", "cs", "MSc Computer Science"
-, "MSc Computer science", "Master of Computer science", "Computer science - BDE" , "", "", "", "", "", "", ""}, value = "Computer Science")
+, "MSc Computer science", "Master of Computer science", "Computer science - BDE" , "Computer Science(joint degree)", "computer scienece", "CS Big Data Engineering", "Master of Computer science", "", "", ""}, value = "Computer Science")
 
 # REPLACE ALL Business Analytics
 df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"BA", "business analytics", "Business Analytics Master (Computational Intelligence track)", "Business analytics", ""}, value = "Business Analytics")
 
 # REPLACE ALL Computational Science
 df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={"computational science", "Computational science", "Computational Science ", 
-"Computational Science(CLS)", "MSc Computational Science", "CLS","MSc Computational Science"}, value = "Computational Science")
+"Computational Science(CLS)", "MSc Computational Science", "CLS","MSc Computational Science", "Computational  Science", "", "", ""}, value = "Computational Science")
 
 # REPLACE REST
 #df.iloc[:, 1] = df.iloc[:, 1].replace(to_replace={not ("Artificial Intelligence", "Computer Science", "Business Analytics", "Computational Science")}, value = "Other")
@@ -195,11 +196,9 @@ df['etarget'] = LabelEncoder().fit_transform(df.iloc[:, 1])
 #creat input and output
 target = df['etarget']
 atts = df[['eattml', 'eattir' ,'eattst' ,'eattdb' ]] # ,'eattgen'
-print(atts)
-print(target)
 
 # splitting data into test and train set
-attstrain,attstest, targettrain,targettest = train_test_split(atts, target, test_size=0.33)
+attstrain,attstest, targettrain,targettest = train_test_split(atts, target, test_size=0.33, random_state=42)
 
 """attstrain = atts[:129]
 attstest  = atts[129:]
@@ -214,7 +213,7 @@ kn.fit(attstrain, targettrain)
 kn_pred = kn.score(attstest, targettest)
 print(f'KN predicts {kn_pred}% correctly.')
 
-mlp = MLPClassifier()
+mlp = MLPClassifier(max_iter=5000)
 mlp.fit(attstrain, targettrain)
 mlp_pred = mlp.score(attstest, targettest)
 print(f'MLP predicts {mlp_pred}% correctly.')
@@ -241,8 +240,7 @@ def stressreplace(df):
 
 stressreplace(df)
 print()
-for x in df.iloc[:, 14]:
-    print(type(x))
+
 
 """#df.iloc['Bedtime'] = df.iloc[:, 14].apply(lambda x: x.strftime('%H:%M:%S')) # :%S'
 df.iloc[:, 14] = pd.to_datetime(df.iloc[:, 14], utc=True, errors='coerce')
@@ -255,18 +253,35 @@ print('bedtime: mean=%.3f stdv=%.3f' % (np.mean(df['Bedtime']), np.std(df['Bedti
 plt.scatter(data1, data2)
 plt.show()
 """
-def correlationstressbed():
+def correlations():
+    # Data clean up & check
     df.iloc[:, 14] = pd.to_datetime(df.iloc[:, 14], utc=True, errors='coerce')
     df['Bedtime'] = df.iloc[:, 14].dt.strftime('%H:%M:%S')
     df.dropna(axis = 0, how = 'any', inplace = True)
+    print('Sample size after deleted missing values=%.3f' % df["Bedtime"].count())
     df['Bedtime'] = df['Bedtime'].apply(lambda x: x[:2])
     df['Bedtime'] = df['Bedtime'].astype(int)
     print('stress: mean=%.3f stdv=%.3f' % (np.mean(df["Stress"]), np.std(df["Stress"])))
     print('bedtime: mean=%.3f stdv=%.3f' % (np.mean(df['Bedtime']), np.std(df['Bedtime'])))
-    corr, _ = pearsonr(df["Stress"], df["Bedtime"])
-    print('Pearsons correlation: %.3f' % corr)
-    print(df["Bedtime"].describe(include='all'))
+    # Correlation between stress and bedtimes
+    sbcorr, _ = pearsonr(df["Stress"], df["Bedtime"])
+    print('Stress x Bedtime Pearson R: %.3f' % sbcorr)
+    sbscorr, _ = spearmanr(df["Stress"], df["Bedtime"])
+    print('Stress x Bedtime Spearman R: %.3f' % sbscorr)
+    
+    #Correlation between stress and programme
+    spcorr, _ = pearsonr(df["Stress"], df["etarget"])
+    print('Stress x Programme Pearson R: %.3f' % spcorr)
+    spscorr, _ = spearmanr(df["Stress"], df["etarget"])
+    print('Stress x Bedtime Spearman R: %.3f' % spscorr)
+
+    #Correlation between stress and gender
+    sgcorr, _ = pearsonr(df["Stress"], df["eattgen"])
+    print('Stress x Gender Pearson R: %.3f' % sgcorr)
+    sgscorr, _ = spearmanr(df["Stress"], df["eattgen"])
+    print('Stress x Bedtime Spearman R: %.3f' % sgscorr)
+
     return 
 
-correlationstressbed()
+correlations()
 print('debug end')
