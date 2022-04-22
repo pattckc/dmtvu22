@@ -1,4 +1,5 @@
 from datetime import tzinfo
+from itertools import count
 from tokenize import Ignore
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -13,6 +14,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import roc_auc_score, accuracy_score
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
+from scipy.stats import pearsonr
 tzinfos = gettz('Europe / Berlin')
 
 df = pd.read_csv('Code\Data\ODI-2022.csv', header = 0, sep = ';')
@@ -82,7 +84,7 @@ df.dropna(axis = 0, how = 'any', inplace = True)
 df.iloc[:, 8]=df.iloc[:, 8].apply(lambda x: datetime.date(x))
 
 #turn datetime to time    
-df.iloc[:, 14]=df.iloc[:, 14].apply(lambda x: datetime.time(x))
+#df.iloc[:, 14]=df.iloc[:, 14].apply(lambda x: datetime.time(x))
 
 print(df.iloc[:, 8][0])
 print(df.iloc[:, 14][0])
@@ -239,3 +241,32 @@ def stressreplace(df):
 
 stressreplace(df)
 print()
+for x in df.iloc[:, 14]:
+    print(type(x))
+
+"""#df.iloc['Bedtime'] = df.iloc[:, 14].apply(lambda x: x.strftime('%H:%M:%S')) # :%S'
+df.iloc[:, 14] = pd.to_datetime(df.iloc[:, 14], utc=True, errors='coerce')
+df['Bedtime'] = df.iloc[:, 14].dt.strftime('%H:%M:%S')
+#[(d - arbitrary_date).total_seconds() for d in dateValues], saleNumbers)
+#df['Bedtime'] = df['Bedtime'].apply(lambda x: x[:2])
+print('stress: mean=%.3f stdv=%.3f' % (np.mean(df["Stress"]), np.std(df["Stress"])))
+print('bedtime: mean=%.3f stdv=%.3f' % (np.mean(df['Bedtime']), np.std(df['Bedtime'])))
+# plot
+plt.scatter(data1, data2)
+plt.show()
+"""
+def correlationstressbed():
+    df.iloc[:, 14] = pd.to_datetime(df.iloc[:, 14], utc=True, errors='coerce')
+    df['Bedtime'] = df.iloc[:, 14].dt.strftime('%H:%M:%S')
+    df.dropna(axis = 0, how = 'any', inplace = True)
+    df['Bedtime'] = df['Bedtime'].apply(lambda x: x[:2])
+    df['Bedtime'] = df['Bedtime'].astype(int)
+    print('stress: mean=%.3f stdv=%.3f' % (np.mean(df["Stress"]), np.std(df["Stress"])))
+    print('bedtime: mean=%.3f stdv=%.3f' % (np.mean(df['Bedtime']), np.std(df['Bedtime'])))
+    corr, _ = pearsonr(df["Stress"], df["Bedtime"])
+    print('Pearsons correlation: %.3f' % corr)
+    print(df["Bedtime"].describe(include='all'))
+    return 
+
+correlationstressbed()
+print('debug end')
