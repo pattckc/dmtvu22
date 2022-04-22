@@ -192,7 +192,7 @@ df['eattgen'] = LabelEncoder().fit_transform(df.iloc[:, 6])
 df['etarget'] = LabelEncoder().fit_transform(df.iloc[:, 1])
 #creat input and output
 target = df['etarget']
-atts = df[['eattml', 'eattir' ,'eattst' ,'eattdb' ,'eattgen']]
+atts = df[['eattml', 'eattir' ,'eattst' ,'eattdb' ]] # ,'eattgen'
 print(atts)
 print(target)
 
@@ -222,17 +222,17 @@ dt.fit(attstrain, targettrain)
 dt_pred = dt.score(attstest, targettest)
 print(f'Decision Tree predicts {dt_pred}% correctly.')
 
-"""def stress_cleaner(df):
-    df["Stress_c"] = df["Stress"]
+def stress_cleaner(df):
+    df["Stress"] = df.iloc[:, 11]
     
-    for i in df["Stress_c"]:
+    for i in df["Stress"]:
         if i.isdigit():
             if float(i) > 100 :
-                df["Stress_c"] = df["Stress_c"].replace(i,'100')
+                df["Stress"] = df["Stress"].replace(i,'100')
         else:
-            df["Stress_c"] = df["Stress_c"].replace(i,'100')
+            df["Stress"] = df["Stress"].replace(i,'100')
 
 
-    df["Stress_c"] = pd.to_numeric(df["Stress_c"], errors='coerce', downcast='integer')
+    df["Stress"] = pd.to_numeric(df["Stress"], errors='coerce', downcast='integer')
         
-    return df"""
+    return df
