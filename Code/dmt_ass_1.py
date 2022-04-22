@@ -222,8 +222,8 @@ dt.fit(attstrain, targettrain)
 dt_pred = dt.score(attstest, targettest)
 print(f'Decision Tree predicts {dt_pred}% correctly.')
 
-def stress_cleaner(df):
-    df["Stress"] = df.iloc[:, 11]
+def stressreplace(df):
+    df["Stress"] = df['What is your stress level (0-100)?']
     
     for i in df["Stress"]:
         if i.isdigit():
@@ -236,3 +236,6 @@ def stress_cleaner(df):
     df["Stress"] = pd.to_numeric(df["Stress"], errors='coerce', downcast='integer')
         
     return df
+
+stressreplace(df)
+print()
