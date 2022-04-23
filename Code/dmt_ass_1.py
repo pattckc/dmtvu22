@@ -19,6 +19,8 @@ from scipy.stats import spearmanr
 tzinfos = gettz('Europe / Berlin')
 
 df = pd.read_csv('Code\Data\ODI-2022.csv', header = 0, sep = ';')
+ds = df.describe(include='all')
+print(ds)
 
 # df = df.drop([24, 120, 141, 148, 176, 211, 223, 234, 249, 293]) # faulty bdays
 # df = df.drop([2, 10, 12, 15, 21, 25, 16]) # faulty bedtimes
@@ -143,48 +145,61 @@ var8 = df.iloc[:, 8].value_counts(); var9 = df.iloc[:, 9].value_counts(); var10 
 var12 = df.iloc[:, 12].value_counts(); var13 = df.iloc[:, 13].value_counts(); var14 = df.iloc[:, 14].value_counts(); var15 = df.iloc[:, 15].value_counts(); 
 var16 = df.iloc[:, 16].value_counts()
 
+#df.groupby(['team']).sum().plot(kind='pie', y='points')
+
 
 histprog = df.iloc[:, 1]
 histprog.hist(bins=5)
 plt.ylabel('Frequency')
 #plt.xlabel("Artificial Intelligence, Computer Science, Business Analytics, Computational Science, Other")
 plt.title('What programme are you in?')
-#plt.show()
+plt.style.use('seaborn-whitegrid')
 
-histml = df.iloc[:, 2]
+plt.show()
+
+histml = df['Have you taken a course on machine learning?']
 histml.hist(bins=3)
 plt.ylabel('Frequency')
 #plt.xlabel('No, Yes, Unknown')
 plt.title('Have you taken a course on machine learning?')
-#plt.show()
+plt.style.use('seaborn-whitegrid')
+plt.show()
 
 histir = df.iloc[:, 3]
 histir.hist(bins=3)
 plt.ylabel('Frequency')
 #plt.xlabel('No = 0, Yes = 1, Unknown')
 plt.title('Have you taken a course on information retrieval')
-#plt.show()
+plt.style.use('seaborn-whitegrid')
+plt.show()
+
 
 histst = df.iloc[:, 4]
 histst.hist(bins=3)
 plt.ylabel('Frequency')
 #plt.xlabel('No = Sigma, Yes = Mu , Unknown')
 plt.title('Have you taken a course on statistics')
-#plt.show()
+plt.style.use('seaborn-whitegrid')
+plt.show()
+
 
 histdb = df.iloc[:, 5]
 histdb.hist(bins=3)
 plt.ylabel('Frequency')
 #plt.xlabel('No = Nee, Yes = Ja, Unknown')
 plt.title('Have you taken a course on databases?')
-#plt.show()
+plt.style.use('seaborn-whitegrid')
+plt.show()
+
 
 histgen = df.iloc[:, 6]
 histgen.hist(bins=5)
 plt.ylabel('Frequency')
 #plt.xlabel('Male, Female, Unknown')
 plt.title('What is your gender?')
-#plt.show()
+plt.style.use('seaborn-whitegrid')
+plt.show()
+
 
 #encoding all the data
 df['eattml'] = LabelEncoder().fit_transform(df.iloc[:, 2])
@@ -212,16 +227,46 @@ kn = KNeighborsClassifier()
 kn.fit(attstrain, targettrain)
 kn_pred = kn.score(attstest, targettest)
 print(f'KN predicts {kn_pred}% correctly.')
+knpredictions = kn.predict(attstest)
 
 mlp = MLPClassifier(max_iter=5000)
 mlp.fit(attstrain, targettrain)
 mlp_pred = mlp.score(attstest, targettest)
 print(f'MLP predicts {mlp_pred}% correctly.')
+mlppredictions = mlp.predict(attstest)
 
 dt = DecisionTreeClassifier()
 dt.fit(attstrain, targettrain)
 dt_pred = dt.score(attstest, targettest)
 print(f'Decision Tree predicts {dt_pred}% correctly.')
+dtpredictions = dt.predict(attstest)
+
+def report_to_latex_table(data):
+    avg_split = False
+    out = ""
+    out += "\\begin{table}\n"
+    out += "\\caption{Latex Table from Classification Report}\n"
+    out += "\\label{table:classification:report}\n"
+    out += "\\centering\n"
+    out += "\\begin{tabular}{c | c c c r}\n"
+    out += "Class & Precision & Recall & F-score & Support\\\\\n"
+    out += "\midrule\n"
+    for cls, scores in data.items():
+        if 'micro' in cls:
+            out += "\\midrule\n"
+        out += cls + " & " + " & ".join([str(s) for s in scores])
+        out += "\\\\\n"
+    out += "\\end{tabular}\n"
+    out += "\\end{table}"
+    return out
+
+
+"""from sklearn.metrics import classification_report
+print(report_to_latex_table(classification_report(targettest, knpredictions)))
+print(report_to_latex_table(classification_report(targettest, mlppredictions)))
+print(report_to_latex_table(classification_report(targettest, dtpredictions)))"""
+
+
 
 def stressreplace(df):
     df["Stress"] = df['What is your stress level (0-100)?']
@@ -284,4 +329,9 @@ def correlations():
     return 
 
 correlations()
+
+
+print(df.iloc[:, 1].value_counts())
+
+
 print('debug end')
